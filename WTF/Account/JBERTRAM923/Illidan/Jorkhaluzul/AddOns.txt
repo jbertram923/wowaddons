@@ -1,0 +1,8 @@
+AAP-Core: enabled
+AAP-Vanilla: enabled
+AAP-TBC-WotLK: enabled
+AAP-Cata-MoP: enabled
+AAP-Legion: enabled
+AAP-WoD: enabled
+AAP-BfA: enabled
+Details_Streamer: disabled

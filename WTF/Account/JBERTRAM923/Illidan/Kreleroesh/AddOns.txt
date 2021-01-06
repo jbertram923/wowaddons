@@ -1,0 +1,7 @@
+AAP-BfA: disabled
+AAP-Legion: disabled
+AAP-WoD: disabled
+AAP-Cata-MoP: disabled
+AAP-TBC-WotLK: disabled
+AAP-Vanilla: disabled
+AAP-Core: disabled

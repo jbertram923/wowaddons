@@ -1,0 +1,20 @@
+VER 3 0100000000000003 "FOCUS" "136175"
+#showtooltip
+/cast [target=focus] Blind
+END
+VER 3 0100000000000005 "Grapple" "1373906"
+#showtooltip Grappling Hook
+/cast [@cursor] Grappling Hook
+END
+VER 3 0100000000000001 "Hidden Progress" "1033914"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0100000000000004 "KIDNEY" "132298"
+#showtooltip
+/target Jarl Velbrand
+/cast Kidney Shot
+END
+VER 3 0100000000000002 "KILL" "132282"
+/cast Marked for Death
+/cast Run Through
+END

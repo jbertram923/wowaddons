@@ -1,0 +1,19 @@
+VER 3 000000000000000B "A-1" "2203914"
+/target arena1
+END
+VER 3 000000000000000C "A-2" "2203914"
+/target arena2
+END
+VER 3 000000000000000D "A-3" "2203914"
+/target arena3
+END
+VER 3 0000000000000013 "BITCH" "2114667"
+/spit
+/bow
+END
+VER 3 0000000000000005 "macro" "133441"
+/macro
+END
+VER 3 0000000000000009 "Sound" "136211"
+/run SetCVar("Sound_EnableAllSound",GetCVar("Sound_EnableAllSound")=="0" and 1 or 0)
+END

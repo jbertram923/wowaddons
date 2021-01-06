@@ -1,0 +1,14 @@
+VER 3 0100000000000003 "INT" "608940"
+#showtooltip
+/target Tugar Bloodtotem
+/cast Spear Hand Strike
+END
+VER 3 0100000000000002 "PARA" "629534"
+#showtooltip
+/target Tugar Bloodtotem
+/cast Paralysis
+END
+VER 3 0100000000000001 "TOTEM" "136098"
+/target Fel Surge Totem
+/cast Crackling Jade Lightning
+END

@@ -1,0 +1,47 @@
+BINDINGMODE 0
+bind W CLICK BT4Button2:LeftButton
+bind S STRAFELEFT
+bind A CLICK BT4Button13:LeftButton
+bind D MOVEFORWARD
+bind Q CLICK BT4Button1:LeftButton
+bind E CLICK BT4Button3:LeftButton
+bind X CLICK BT4Button26:LeftButton
+bind Z CLICK BT4Button25:LeftButton
+bind R CLICK BT4Button4:LeftButton
+bind SHIFT-R CLICK BT4Button10:LeftButton
+bind 1 TOGGLECHARACTER0
+bind 2 OPENALLBAGS
+bind 3 NAMEPLATES
+bind 4 NONE
+bind 5 NONE
+bind CTRL-F1 NONE
+bind SHIFT-1 NONE
+bind SHIFT-2 NONE
+bind SHIFT-3 NONE
+bind SHIFT-4 NONE
+bind SHIFT-5 NONE
+bind G CLICK BT4Button17:LeftButton
+bind F STRAFERIGHT
+bind V CLICK BT4Button28:LeftButton
+bind SHIFT-V CLICK BT4Button34:LeftButton
+bind SHIFT-T CLICK BT4Button11:LeftButton
+bind C CLICK BT4Button27:LeftButton
+bind B CLICK BT4Button29:LeftButton
+bind SHIFT-B CLICK BT4Button35:LeftButton
+bind CTRL-B OPENALLBAGS
+bind SHIFT-G CLICK BT4Button23:LeftButton
+bind SHIFT-C CLICK BT4Button33:LeftButton
+bind T CLICK BT4Button5:LeftButton
+bind SHIFT-L QGT_TOGGLE_TRACKER_KB
+bind SHIFT-Q CLICK BT4Button7:LeftButton
+bind SHIFT-W CLICK BT4Button8:LeftButton
+bind SHIFT-E CLICK BT4Button9:LeftButton
+bind SHIFT-A CLICK BT4Button19:LeftButton
+bind SHIFT-S CLICK BT4Button20:LeftButton
+bind SHIFT-D CLICK BT4Button21:LeftButton
+bind SHIFT-F CLICK BT4Button22:LeftButton
+bind SHIFT-Z CLICK BT4Button31:LeftButton
+bind SHIFT-X CLICK BT4Button32:LeftButton
+bind CTRL-C TOGGLECHARACTER0
+bind CTRL-X SITORSTAND
+bind ` STARTAUTORUN

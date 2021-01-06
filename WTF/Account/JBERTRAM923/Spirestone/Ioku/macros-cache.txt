@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "Ankh" "INV_Misc_QuestionMark"
+#showtooltip Reincarnation
+END
+VER 3 0100000000000002 "Heal" "Spell_BrokenHeart"
+/cast tidal force
+/cast nature's swiftness
+/cast healing wave
+END
+VER 3 0100000000000003 "mount" "SPELL_NATURE_SPIRITWOLF"
+/showtooltip
+/cast [combat,nomounted] Ghost Wolf
+/cast [nostance,nocombat,flyable] Red Riding Nether Ray
+/cast [nostance,nocombat,noflyable] Mekgineer's Chopper
+/dismount [mounted]
+/cancelform [stance]
+END

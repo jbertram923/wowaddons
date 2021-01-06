@@ -1,0 +1,10 @@
+VER 3 0100000000000001 "Fuckemup" "135767"
+#showtooltip Avatar
+/use Avatar
+/use Bloodbath
+/use Battle Cry
+END
+VER 3 0100000000000002 "Heroic Leap" "236171"
+#showtooltip Heroic Leap
+/use !Heroic Leap
+END

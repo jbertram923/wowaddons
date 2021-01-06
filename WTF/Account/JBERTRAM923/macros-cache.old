@@ -1,0 +1,47 @@
+VER 3 000000000000000B "A-1" "2203914"
+/target arena1
+END
+VER 3 000000000000000C "A-2" "2203914"
+/target arena2
+END
+VER 3 000000000000000D "A-3" "2203914"
+/target arena3
+END
+VER 3 0000000000000012 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Horn of the Frostbrood
+END
+VER 3 0000000000000013 "BITCH" "2114667"
+/spit
+/bow
+END
+VER 3 0000000000000011 "E" "2203912"
+END
+VER 3 000000000000000E "Forward" "INV_MISC_QUESTIONMARK"
+#showtooltip misc_arrowlup
+END
+VER 3 0000000000000005 "macro" "133441"
+/macro
+END
+VER 3 0000000000000010 "Q" "2203912"
+END
+VER 3 0000000000000009 "Sound" "136211"
+/run SetCVar("Sound_EnableAllSound",GetCVar("Sound_EnableAllSound")=="0" and 1 or 0)
+END
+VER 3 000000000000000A "Treasure" "571554"
+/way 72, 40.7
+/way 72.8, 38.3
+/way 73.7, 36.4
+/way 73.8, 36.5
+/way 74.7, 29.8
+/way 75.9, 36
+/way 79, 37.3
+/way 82.2, 31.3
+/way 82.4, 46
+/way 82.5, 46
+/way 85.4, 54
+/way 85.5, 54.1
+/way 85.8, 29.9
+END
+VER 3 000000000000000F "W" "2203912"
+END

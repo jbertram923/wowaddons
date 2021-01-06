@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "Kick" "236946"
+#showtooltip
+/target Inquisitor Variss
+/cast Skull Bash
+END

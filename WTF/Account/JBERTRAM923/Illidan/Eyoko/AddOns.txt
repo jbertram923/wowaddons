@@ -1,0 +1,18 @@
+AAP-Core: disabled
+Azeroth Auto Pilot: disabled
+BtWQuests: disabled
+AAP-Vanilla: disabled
+AAP-TBC-WotLK: disabled
+AAP-Cata-MoP: disabled
+AAP-WoD: disabled
+AAP-Legion: disabled
+AAP-BfA: disabled
+BtWQuestsBattleForAzeroth: disabled
+Details: disabled
+Details_EncounterDetails: disabled
+Details_RaidCheck: disabled
+Details_DataStorage: disabled
+Details_Streamer: disabled
+Details_TinyThreat: disabled
+Details_Vanguard: disabled
+DraenorTreasures: disabled

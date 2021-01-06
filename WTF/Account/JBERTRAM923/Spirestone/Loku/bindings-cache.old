@@ -1,0 +1,32 @@
+BINDINGMODE 0
+bind 1 NONE
+bind 2 NONE
+bind 3 NONE
+bind 4 NONE
+bind 5 NONE
+bind 6 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind F1 CLICK BT4Button13:LeftButton
+bind SHIFT-F1 CLICK BT4Button1:LeftButton
+bind F2 CLICK BT4Button14:LeftButton
+bind F3 CLICK BT4Button15:LeftButton
+bind F4 CLICK BT4Button16:LeftButton
+bind F5 CLICK BT4Button17:LeftButton
+bind SHIFT-F2 CLICK BT4Button2:LeftButton
+bind SHIFT-F3 CLICK BT4Button3:LeftButton
+bind SHIFT-F4 CLICK BT4Button4:LeftButton
+bind SHIFT-F5 CLICK BT4Button5:LeftButton
+bind F8 CLICK BT4Button20:LeftButton
+bind F9 CLICK BT4Button21:LeftButton
+bind F10 CLICK BT4Button25:LeftButton
+bind SHIFT-F6 CLICK BT4Button6:LeftButton
+bind SHIFT-F7 CLICK BT4Button7:LeftButton
+bind SHIFT-F8 CLICK BT4Button8:LeftButton
+bind SHIFT-F9 CLICK BT4Button9:LeftButton
+bind F6 CLICK BT4Button18:LeftButton
+bind F7 CLICK BT4Button19:LeftButton
+bind SHIFT-F10 CLICK BT4Button28:LeftButton
+bind ` STARTAUTORUN
+bind SHIFT-F12 CLICK BT4Button50:LeftButton

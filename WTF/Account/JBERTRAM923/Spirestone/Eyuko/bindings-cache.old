@@ -1,0 +1,70 @@
+BINDINGMODE 0
+bind BUTTON3 SETVIEW5
+bind W CLICK BT4Button2:LeftButton
+bind S STRAFELEFT
+bind A CLICK BT4Button13:LeftButton
+bind D MOVEFORWARD
+bind Q CLICK BT4Button1:LeftButton
+bind E CLICK BT4Button3:LeftButton
+bind X CLICK BT4Button26:LeftButton
+bind Z CLICK BT4Button25:LeftButton
+bind NUMLOCK NONE
+bind BUTTON4 MULTIACTIONBAR3BUTTON1
+bind R CLICK BT4Button4:LeftButton
+bind SHIFT-R CLICK BT4Button10:LeftButton
+bind 1 OPENALLBAGS
+bind 2 TOGGLECHARACTER0
+bind 3 NONE
+bind 4 NONE
+bind 5 NONE
+bind 6 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind - NONE
+bind = NONE
+bind TAB TARGETPREVIOUSENEMY
+bind SHIFT-TAB NONE
+bind F1 NONE
+bind SHIFT-F1 NONE
+bind F2 NONE
+bind F3 NONE
+bind F4 NONE
+bind F5 NONE
+bind SHIFT-F2 NONE
+bind SHIFT-F3 NONE
+bind SHIFT-F4 NONE
+bind SHIFT-F5 NONE
+bind G CLICK BT4Button17:LeftButton
+bind F STRAFERIGHT
+bind V CLICK BT4Button28:LeftButton
+bind SHIFT-V CLICK BT4Button34:LeftButton
+bind SHIFT-T CLICK BT4Button11:LeftButton
+bind C CLICK BT4Button27:LeftButton
+bind B CLICK BT4Button29:LeftButton
+bind SHIFT-B CLICK BT4Button35:LeftButton
+bind F8 NONE
+bind F9 NONE
+bind F10 NONE
+bind SHIFT-G CLICK BT4Button23:LeftButton
+bind SHIFT-C CLICK BT4Button33:LeftButton
+bind T CLICK BT4Button5:LeftButton
+bind ` TOGGLEAUTORUN
+bind NUMPADMULTIPLY FOLLOWTARGET
+bind BUTTON5 MULTIACTIONBAR1BUTTON1
+bind F6 NONE
+bind F7 NONE
+bind SHIFT-F6 NONE
+bind SHIFT-F7 NONE
+bind SHIFT-F8 NONE
+bind SHIFT-F9 NONE
+bind SHIFT-Q CLICK BT4Button7:LeftButton
+bind SHIFT-W CLICK BT4Button8:LeftButton
+bind SHIFT-E CLICK BT4Button9:LeftButton
+bind SHIFT-A CLICK BT4Button19:LeftButton
+bind SHIFT-S CLICK BT4Button20:LeftButton
+bind SHIFT-D CLICK BT4Button21:LeftButton
+bind SHIFT-F CLICK BT4Button22:LeftButton
+bind SHIFT-Z CLICK BT4Button31:LeftButton
+bind SHIFT-X CLICK BT4Button32:LeftButton

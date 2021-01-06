@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Fury" "132123"
+/use Sinful Aspirant's Badge of Ferocity
+/cast Fury of Elune
+END

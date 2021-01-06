@@ -1,0 +1,24 @@
+
+sArena3DB = {
+	["profileKeys"] = {
+		["Nikkhalkaj - Illidan"] = "Default",
+		["Pakurahnho - Illidan"] = "Default",
+		["Atuljorkho - Illidan"] = "Default",
+		["Joburt - Illidan"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["layoutSettings"] = {
+				["BlizzArena"] = {
+					["posY"] = 118,
+					["spacing"] = 37,
+					["scale"] = 1.5,
+					["specIcon"] = {
+						["posX"] = 50,
+					},
+					["posX"] = 521,
+				},
+			},
+		},
+	},
+}

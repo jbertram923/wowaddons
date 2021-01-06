@@ -1,0 +1,8 @@
+Version: 1
+Frame: ATTAnchor5
+FrameLevel: 2
+Anchor: CENTER
+X: 148
+Y: -253
+W: 15
+H: 15

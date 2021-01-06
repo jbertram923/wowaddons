@@ -1,0 +1,17 @@
+AAP-Core: disabled
+AAP-Vanilla: disabled
+AAP-TBC-WotLK: disabled
+AAP-Cata-MoP: disabled
+AAP-Legion: disabled
+AAP-WoD: disabled
+AAP-BfA: disabled
+Details_Streamer: disabled
+Details: enabled
+Details_EncounterDetails: disabled
+Details_RaidCheck: disabled
+Details_DataStorage: disabled
+Details_TinyThreat: disabled
+Details_Vanguard: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Plater: disabled
