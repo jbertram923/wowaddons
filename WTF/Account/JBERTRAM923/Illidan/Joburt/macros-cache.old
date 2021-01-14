@@ -1,3 +1,6 @@
+VER 3 0100000000000002 "BUFFS" "136051"
+/castsequence reset=5 Lightning Shield,Windfury Weapon,Flametongue Weapon
+END
 VER 3 0100000000000001 "Reincarnation" "451167"
 #showtooltip Reincarnation
 END

@@ -2,6 +2,7 @@
 sArena3DB = {
 	["profileKeys"] = {
 		["Pakurahnho - Illidan"] = "Default",
+		["Eyuko - Illidan"] = "Default",
 		["Joburt - Illidan"] = "Default",
 		["Atuljorkho - Illidan"] = "Default",
 		["Jabzulash - Illidan"] = "Default",
@@ -12,12 +13,13 @@ sArena3DB = {
 			["layoutSettings"] = {
 				["BlizzArena"] = {
 					["posY"] = 118,
-					["scale"] = 1.5,
+					["scale"] = 1.7,
 					["specIcon"] = {
 						["posX"] = 50,
 					},
-					["posX"] = 521,
+					["classIconFontSize"] = 13,
 					["spacing"] = 37,
+					["posX"] = 269,
 				},
 			},
 		},

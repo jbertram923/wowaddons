@@ -16,3 +16,5 @@ Details_Streamer: disabled
 Details_TinyThreat: disabled
 Details_Vanguard: disabled
 DraenorTreasures: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

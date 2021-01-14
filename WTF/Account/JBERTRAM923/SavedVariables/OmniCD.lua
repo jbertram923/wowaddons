@@ -2,6 +2,7 @@
 OmniCDDB = {
 	["profileKeys"] = {
 		["Pakurahnho - Illidan"] = "Default",
+		["Eyuko - Illidan"] = "Default",
 		["Joburt - Illidan"] = "Default",
 		["Atuljorkho - Illidan"] = "Default",
 		["Jabzulash - Illidan"] = "Default",
@@ -17,6 +18,18 @@ OmniCDDB = {
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
+				["party"] = {
+					["manualPos"] = {
+						["interruptBar"] = {
+							["y"] = 326.0445391449684,
+							["x"] = 14.57771031392781,
+						},
+						["raidCDBar"] = {
+							["y"] = 363.022187609804,
+							["x"] = 13.15562911629854,
+						},
+					},
+				},
 				["scenario"] = {
 				},
 				["none"] = {

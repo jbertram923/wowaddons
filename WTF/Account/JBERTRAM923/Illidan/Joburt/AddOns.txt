@@ -15,3 +15,7 @@ Details_Vanguard: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 Plater: disabled
+Kui_Media: disabled
+Kui_Nameplates_Core_Config: disabled
+Kui_Nameplates: disabled
+Kui_Nameplates_Core: disabled

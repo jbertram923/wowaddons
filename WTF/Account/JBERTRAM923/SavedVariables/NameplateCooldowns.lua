@@ -1,13 +1,14 @@
 
 NameplateCooldownsAceDB = {
 	["profileKeys"] = {
-		["Nikkhalkaj - Illidan"] = "Nikkhalkaj - Illidan",
-		["Jabzulash - Illidan"] = "Jabzulash - Illidan",
-		["Atuljorkho - Illidan"] = "Atuljorkho - Illidan",
+		["Eyuko - Illidan"] = "Eyuko - Illidan",
 		["Joburt - Illidan"] = "Joburt - Illidan",
+		["Atuljorkho - Illidan"] = "Atuljorkho - Illidan",
+		["Jabzulash - Illidan"] = "Jabzulash - Illidan",
+		["Nikkhalkaj - Illidan"] = "Nikkhalkaj - Illidan",
 	},
 	["profiles"] = {
-		["Nikkhalkaj - Illidan"] = {
+		["Eyuko - Illidan"] = {
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -1783,6 +1784,3988 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60.3,
 					["spellIDs"] = {
 						[46924] = true,
+					},
+				},
+				["Touch of Death"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 144,
+					["spellIDs"] = {
+						[322109] = true,
+					},
+				},
+				["Killing Spree"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[51690] = true,
+					},
+				},
+				["Dismantle"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[207777] = true,
+					},
+				},
+				["Sigil of Chains"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 67.5,
+					["spellIDs"] = {
+						[202138] = true,
+					},
+				},
+				["Healing Tide Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[108280] = true,
+					},
+				},
+				["Temporal Shield"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[198111] = true,
+					},
+				},
+				["Illidan's Grasp"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[205630] = true,
+					},
+				},
+				["Sigil of Silence"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[202137] = true,
+					},
+				},
+				["Frost Nova"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[122] = true,
+					},
+				},
+				["Dispersion"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[47585] = true,
+					},
+				},
+				["Disengage"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[781] = true,
+					},
+				},
+				["Faerie Swarm"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[209749] = true,
+					},
+				},
+				["Gift of the Naaru"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[59543] = true,
+					},
+				},
+				["Dark Pact"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[108416] = true,
+					},
+				},
+				["Eye of Leotheras"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[206649] = true,
+					},
+				},
+				["Dragon Charge"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[206572] = true,
+					},
+				},
+				["Shroud of Concealment"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
+					["spellIDs"] = {
+						[114018] = true,
+					},
+				},
+				["Bloodlust"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[2825] = true,
+					},
+				},
+				["Typhoon"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[132469] = true,
+					},
+				},
+				["Leap of Faith"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[73325] = true,
+					},
+				},
+				["Wind Shear"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 9,
+					["spellIDs"] = {
+						[57994] = true,
+					},
+				},
+				["Shimmer"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[212653] = true,
+					},
+				},
+				["Dash"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[1850] = true,
+					},
+				},
+				["Ascendance"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[114052] = true,
+					},
+				},
+				["Spell Lock"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[19647] = true,
+					},
+				},
+				["Supernova"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[157980] = true,
+					},
+				},
+			},
+			["DBVersion"] = 10,
+			["MigrationVersion"] = 5,
+			["TimerTextSize"] = 13,
+		},
+		["Joburt - Illidan"] = {
+			["SpellCDs"] = {
+				["Life Cocoon"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 65,
+					["spellIDs"] = {
+						[116849] = true,
+					},
+				},
+				["Lightning Lasso"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[305483] = true,
+					},
+				},
+				["Bloodrage"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[329038] = true,
+					},
+				},
+				["Skull Bash"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[106839] = true,
+					},
+				},
+				["Eye for an Eye"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[205191] = true,
+					},
+				},
+				["Ring of Peace"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[116844] = true,
+					},
+				},
+				["Berserker Rage"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[18499] = true,
+					},
+				},
+				["Hammer of Justice"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[853] = true,
+					},
+				},
+				["Ring of Frost"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[113724] = true,
+					},
+				},
+				["Apocalypse"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[275699] = true,
+					},
+				},
+				["Blind"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[2094] = true,
+					},
+				},
+				["Incarnation: Tree of Life"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[33891] = true,
+					},
+				},
+				["Counter Shot"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[147362] = true,
+					},
+				},
+				["Anti-Magic Zone"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[51052] = true,
+					},
+				},
+				["Fel Eruption"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[211881] = true,
+					},
+				},
+				["Call Fel Lord"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[212459] = true,
+					},
+				},
+				["Earthgrab Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[51485] = true,
+					},
+				},
+				["Mighty Ox Kick"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[202370] = true,
+					},
+				},
+				["Ice Block"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 210,
+					["spellIDs"] = {
+						[45438] = true,
+					},
+				},
+				["Holy Word: Chastise"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[88625] = true,
+					},
+				},
+				["Counterspell"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[2139] = true,
+					},
+				},
+				["Thoughtsteal"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[316262] = true,
+					},
+				},
+				["Aura Mastery"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[31821] = true,
+					},
+				},
+				["Death Grip"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[49576] = true,
+					},
+				},
+				["Summon Gargoyle"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 160,
+					["spellIDs"] = {
+						[49206] = true,
+					},
+				},
+				["Guardian of Ancient Kings"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 215,
+					["spellIDs"] = {
+						[86659] = true,
+					},
+				},
+				["Arcane Power"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[12042] = true,
+					},
+				},
+				["War Banner"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[236320] = true,
+					},
+				},
+				["Mirror Image"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[55342] = true,
+					},
+				},
+				["Alter Time"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[108978] = true,
+					},
+				},
+				["Mighty Bash"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 54,
+					["spellIDs"] = {
+						[5211] = true,
+					},
+				},
+				["Frozen Orb"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[84714] = true,
+					},
+				},
+				["Scatter Shot"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[213691] = true,
+					},
+				},
+				["Zen Focus Tea"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[209584] = true,
+					},
+				},
+				["Renewal"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[108238] = true,
+					},
+				},
+				["Rain from Above"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[206803] = true,
+					},
+				},
+				["Heroism"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[32182] = true,
+					},
+				},
+				["Shining Force"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[204263] = true,
+					},
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 144,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+				},
+				["Counterstrike Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[204331] = true,
+					},
+				},
+				["Spear Hand Strike"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[116705] = true,
+					},
+				},
+				["Howl of Terror"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[5484] = true,
+					},
+				},
+				["Camouflage"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[199483] = true,
+					},
+				},
+				["Icy Veins"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[12472] = true,
+					},
+				},
+				["Maim"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[22570] = true,
+					},
+				},
+				["Berserk"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[106951] = true,
+					},
+				},
+				["Divine Ascension"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[328530] = true,
+					},
+				},
+				["Spell Reflection"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[23920] = true,
+					},
+				},
+				["Holy Avenger"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[105809] = true,
+					},
+				},
+				["Greater Invisibility"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[110959] = true,
+					},
+				},
+				["Hex"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 10,
+					["spellIDs"] = {
+						[277784] = true,
+					},
+				},
+				["Optical Blast"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[115781] = true,
+					},
+				},
+				["Intimidation"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[19577] = true,
+					},
+				},
+				["Rocket Jump"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[69070] = true,
+					},
+				},
+				["Divine Steed"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[190784] = true,
+					},
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+				},
+				["Cloak of Shadows"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31224] = true,
+					},
+				},
+				["Mass Entanglement"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 27,
+					["spellIDs"] = {
+						[102359] = true,
+					},
+				},
+				["Blinding Light"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[115750] = true,
+					},
+				},
+				["Pain Suppression"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[33206] = true,
+					},
+				},
+				["Incarnation: King of the Jungle"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102543] = true,
+					},
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+				},
+				["Summon Infernal"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[1122] = true,
+					},
+				},
+				["Power Word: Barrier"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[62618] = true,
+					},
+				},
+				["Gorefiend's Grasp"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[108199] = true,
+					},
+				},
+				["Gladiator's Medallion"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[336126] = true,
+					},
+				},
+				["Thunderstorm"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[51490] = true,
+					},
+				},
+				["Ursol's Vortex"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[102793] = true,
+					},
+				},
+				["Blood Fury"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[33697] = true,
+					},
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+				},
+				["Spiritwalker's Grace"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[79206] = true,
+					},
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+				},
+				["Celestial Alignment"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[194223] = true,
+					},
+				},
+				["Shadow Blades"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[121471] = true,
+					},
+				},
+				["Ice Form"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[198144] = true,
+					},
+				},
+				["Avatar"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[107574] = true,
+					},
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60.3,
+					["spellIDs"] = {
+						[46924] = true,
+					},
+				},
+				["Lay on Hands"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[633] = true,
+					},
+				},
+				["Sundering"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[197214] = true,
+					},
+				},
+				["Arcane Torrent"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[80483] = true,
+					},
+				},
+				["Plunder Armor"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[198529] = true,
+					},
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+				},
+				["Transcendence: Transfer"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[119996] = true,
+					},
+				},
+				["Sprint"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[2983] = true,
+					},
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+				},
+				["Grounding Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[204336] = true,
+					},
+				},
+				["Divine Shield"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[642] = true,
+					},
+				},
+				["Tremor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[8143] = true,
+					},
+				},
+				["Darkflight"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[68992] = true,
+					},
+				},
+				["Sigil of Misery"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[207684] = true,
+					},
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+				},
+				["Ancestral Protection Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[207399] = true,
+					},
+				},
+				["Axe Toss"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[89766] = true,
+					},
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+				},
+				["Shadowstep"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 22,
+					["spellIDs"] = {
+						[36554] = true,
+					},
+				},
+				["Metamorphosis"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[187827] = true,
+					},
+				},
+				["Shadowmeld"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[58984] = true,
+					},
+				},
+				["Desperate Prayer"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[19236] = true,
+					},
+				},
+				["Icebound Fortitude"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 165,
+					["spellIDs"] = {
+						[48792] = true,
+					},
+				},
+				["Grappling Hook"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[195457] = true,
+					},
+				},
+				["Asphyxiate"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[108194] = true,
+					},
+				},
+				["Imprison"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[217832] = true,
+					},
+				},
+				["Recklessness"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[1719] = true,
+					},
+				},
+				["Lichborne"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[49039] = true,
+					},
+				},
+				["Sharpen Blade"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[198817] = true,
+					},
+				},
+				["Blinding Sleet"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[207167] = true,
+					},
+				},
+				["Rebirth"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 600,
+					["spellIDs"] = {
+						[20484] = true,
+					},
+				},
+				["Paralysis"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[115078] = true,
+					},
+				},
+				["Blessing of Sacrifice"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 72,
+					["spellIDs"] = {
+						[6940] = true,
+					},
+				},
+				["Song of Chi-Ji"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[198898] = true,
+					},
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+				},
+				["Blessing of Spellwarding"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 108,
+					["spellIDs"] = {
+						[204018] = true,
+					},
+				},
+				["Divine Hymn"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[64843] = true,
+					},
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[47788] = true,
+					},
+				},
+				["Kick"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1766] = true,
+					},
+				},
+				["Smoke Bomb"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[212182] = true,
+					},
+				},
+				["Charge"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[100] = true,
+					},
+				},
+				["Displacement"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[195676] = true,
+					},
+				},
+				["Leg Sweep"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[119381] = true,
+					},
+				},
+				["Harpoon"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[190925] = true,
+					},
+				},
+				["Incapacitating Roar"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[99] = true,
+					},
+				},
+				["Capacitor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[192058] = true,
+					},
+				},
+				["Incarnation: Chosen of Elune"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102560] = true,
+					},
+				},
+				["Mind Freeze"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[47528] = true,
+					},
+				},
+				["Dreadblades"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[343142] = true,
+					},
+				},
+				["Heart of the Wild"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[319454] = true,
+					},
+				},
+				["Shadow Dance"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[185313] = true,
+					},
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+				},
+				["Spectral Sight"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[188501] = true,
+					},
+				},
+				["Touch of Karma"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[122470] = true,
+					},
+				},
+				["PvP Trinket"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[283167] = true,
+					},
+				},
+				["Army of the Dead"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 240,
+					["spellIDs"] = {
+						[42650] = true,
+					},
+				},
+				["Zen Meditation"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[115176] = true,
+					},
+				},
+				["Psychic Scream"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[8122] = true,
+					},
+				},
+				["Crimson Vial"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[185311] = true,
+					},
+				},
+				["Divine Protection"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[498] = true,
+					},
+				},
+				["Nether Ward"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[212295] = true,
+					},
+				},
+				["Warbreaker"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[262161] = true,
+					},
+				},
+				["Serenity"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[152173] = true,
+					},
+				},
+				["Void Shift"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[108968] = true,
+					},
+				},
+				["Overrun"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[202246] = true,
+					},
+				},
+				["Coordinated Assault"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
+					["spellIDs"] = {
+						[266779] = true,
+					},
+				},
+				["Last Stand"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 36,
+					["spellIDs"] = {
+						[12975] = true,
+					},
+				},
+				["Blink"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1953] = true,
+					},
+				},
+				["Avenging Crusader"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[216331] = true,
+					},
+				},
+				["Pummel"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[6552] = true,
+					},
+				},
+				["Psychic Horror"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[64044] = true,
+					},
+				},
+				["Die by the Sword"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[118038] = true,
+					},
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+				},
+				["Rocket Barrage"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[69041] = true,
+					},
+				},
+				["Shield Wall"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 140,
+					["spellIDs"] = {
+						[871] = true,
+					},
+				},
+				["Will of the Forsaken"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[7744] = true,
+					},
+				},
+				["Bestial Wrath"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 76.5,
+					["spellIDs"] = {
+						[19574] = true,
+					},
+				},
+				["Casting Circle"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[221703] = true,
+					},
+				},
+				["Disarm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[236077] = true,
+					},
+				},
+				["Ethereal Form"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[210918] = true,
+					},
+				},
+				["Master's Call"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[53271] = true,
+					},
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+				},
+				["Dragon's Breath"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 18,
+					["spellIDs"] = {
+						[31661] = true,
+					},
+				},
+				["Invoke Xuen, the White Tiger"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[123904] = true,
+					},
+				},
+				["Cold Snap"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 270,
+					["spellIDs"] = {
+						[235219] = true,
+					},
+				},
+				["Incarnation: Guardian of Ursoc"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102558] = true,
+					},
+				},
+				["Demonic Circle: Teleport"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[48020] = true,
+					},
+				},
+				["Mind Bomb"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[205369] = true,
+					},
+				},
+				["Disrupt"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[183752] = true,
+					},
+				},
+				["Spirit Link Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[98008] = true,
+					},
+				},
+				["Dark Simulacrum"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[77606] = true,
+					},
+				},
+				["Will to Survive"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[59752] = true,
+					},
+				},
+				["Crusade"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[231895] = true,
+					},
+				},
+				["Blessing of Sanctuary"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[210256] = true,
+					},
+				},
+				["Wind Rush Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[192077] = true,
+					},
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+				},
+				["Colossus Smash"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[167105] = true,
+					},
+				},
+				["Barkskin"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 34.2,
+					["spellIDs"] = {
+						[22812] = true,
+					},
+				},
+				["Survival Instincts"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[61336] = true,
+					},
+				},
+				["Stoneform"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[20594] = true,
+					},
+				},
+				["Exhilaration"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
+					["spellIDs"] = {
+						[109304] = true,
+					},
+				},
+				["Demonic Trample"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[205629] = true,
+					},
+				},
+				["Heroic Leap"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[6544] = true,
+					},
+				},
+				["Blessing of Freedom"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 18.75,
+					["spellIDs"] = {
+						[1044] = true,
+					},
+				},
+				["Solar Beam"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[78675] = true,
+					},
+				},
+				["Invisibility"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[66] = true,
+					},
+				},
+				["Blur"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[198589] = true,
+					},
+				},
+				["Vanish"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[1856] = true,
+					},
+				},
+				["Mortal Coil"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[6789] = true,
+					},
+				},
+				["Freezing Arrow"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[209789] = true,
+					},
+				},
+				["Stampede"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[201430] = true,
+					},
+				},
+				["Diffuse Magic"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[122783] = true,
+					},
+				},
+				["Flare"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[1543] = true,
+					},
+				},
+				["Dampen Harm"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[122278] = true,
+					},
+				},
+				["Muzzle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[187707] = true,
+					},
+				},
+				["Anti-Magic Shell"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[48707] = true,
+					},
+				},
+				["Tracker's Net"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[212638] = true,
+					},
+				},
+				["Unending Resolve"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[104773] = true,
+					},
+				},
+				["Silence"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[15487] = true,
+					},
+				},
+				["Guardian of the Forgotten Queen"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[228049] = true,
+					},
+				},
+				["Greater Fade"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[213602] = true,
+					},
+				},
+				["Vendetta"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[79140] = true,
+					},
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+				},
+				["Evasion"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[5277] = true,
+					},
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+				},
+				["Grapple Weapon"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[233759] = true,
+					},
+				},
+				["Blessing of Protection"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 225,
+					["spellIDs"] = {
+						[1022] = true,
+					},
+				},
+				["Combustion"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[190319] = true,
+					},
+				},
+				["Holy Ward"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[213610] = true,
+					},
+				},
+				["Enraged Regeneration"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[184364] = true,
+					},
+				},
+				["Ironbark"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[102342] = true,
+					},
+				},
+				["Berserking"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[26297] = true,
+					},
+				},
+				["Call Felhunter"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[212619] = true,
+					},
+				},
+				["Feral Spirit"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[51533] = true,
+					},
+				},
+				["Binding Shot"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[109248] = true,
+					},
+				},
+				["Reverse Magic"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[205604] = true,
+					},
+				},
+				["Ardent Defender"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 84,
+					["spellIDs"] = {
+						[31850] = true,
+					},
+				},
+				["Death's Advance"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[48265] = true,
+					},
+				},
+				["Spider Sting"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[202914] = true,
+					},
+				},
+				["Astral Shift"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[108271] = true,
+					},
+				},
+				["Intimidating Shout"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[5246] = true,
+					},
+				},
+				["Tranquility"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 66,
+					["spellIDs"] = {
+						[740] = true,
+					},
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[344867] = true,
+					},
+				},
+				["Escape Artist"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[20589] = true,
+					},
+				},
+				["Touch of Death"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 144,
+					["spellIDs"] = {
+						[322109] = true,
+					},
+				},
+				["Killing Spree"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[51690] = true,
+					},
+				},
+				["Dismantle"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[207777] = true,
+					},
+				},
+				["Sigil of Chains"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 67.5,
+					["spellIDs"] = {
+						[202138] = true,
+					},
+				},
+				["Healing Tide Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[108280] = true,
+					},
+				},
+				["Temporal Shield"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[198111] = true,
+					},
+				},
+				["Illidan's Grasp"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[205630] = true,
+					},
+				},
+				["Sigil of Silence"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[202137] = true,
+					},
+				},
+				["Frost Nova"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[122] = true,
+					},
+				},
+				["Dispersion"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[47585] = true,
+					},
+				},
+				["Disengage"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[781] = true,
+					},
+				},
+				["Faerie Swarm"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[209749] = true,
+					},
+				},
+				["Gift of the Naaru"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[59543] = true,
+					},
+				},
+				["Dark Pact"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[108416] = true,
+					},
+				},
+				["Eye of Leotheras"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[206649] = true,
+					},
+				},
+				["Dragon Charge"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[206572] = true,
+					},
+				},
+				["Shroud of Concealment"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
+					["spellIDs"] = {
+						[114018] = true,
+					},
+				},
+				["Bloodlust"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[2825] = true,
+					},
+				},
+				["Typhoon"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[132469] = true,
+					},
+				},
+				["Leap of Faith"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[73325] = true,
+					},
+				},
+				["Wind Shear"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 9,
+					["spellIDs"] = {
+						[57994] = true,
+					},
+				},
+				["Shimmer"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[212653] = true,
+					},
+				},
+				["Dash"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[1850] = true,
+					},
+				},
+				["Ascendance"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[114052] = true,
+					},
+				},
+				["Spell Lock"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[19647] = true,
+					},
+				},
+				["Supernova"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[157980] = true,
+					},
+				},
+			},
+			["MigrationVersion"] = 5,
+			["DBVersion"] = 10,
+			["TimerTextSize"] = 13,
+		},
+		["Atuljorkho - Illidan"] = {
+			["SpellCDs"] = {
+				["Life Cocoon"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 65,
+					["spellIDs"] = {
+						[116849] = true,
+					},
+				},
+				["Lightning Lasso"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[305483] = true,
+					},
+				},
+				["Bloodrage"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[329038] = true,
+					},
+				},
+				["Skull Bash"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[106839] = true,
+					},
+				},
+				["Eye for an Eye"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[205191] = true,
+					},
+				},
+				["Ring of Peace"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[116844] = true,
+					},
+				},
+				["Berserker Rage"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[18499] = true,
+					},
+				},
+				["Hammer of Justice"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[853] = true,
+					},
+				},
+				["Ring of Frost"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[113724] = true,
+					},
+				},
+				["Apocalypse"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[275699] = true,
+					},
+				},
+				["Blind"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[2094] = true,
+					},
+				},
+				["Incarnation: Tree of Life"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[33891] = true,
+					},
+				},
+				["Counter Shot"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[147362] = true,
+					},
+				},
+				["Anti-Magic Zone"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[51052] = true,
+					},
+				},
+				["Fel Eruption"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[211881] = true,
+					},
+				},
+				["Call Fel Lord"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[212459] = true,
+					},
+				},
+				["Earthgrab Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[51485] = true,
+					},
+				},
+				["Mighty Ox Kick"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[202370] = true,
+					},
+				},
+				["Ice Block"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 210,
+					["spellIDs"] = {
+						[45438] = true,
+					},
+				},
+				["Holy Word: Chastise"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[88625] = true,
+					},
+				},
+				["Counterspell"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[2139] = true,
+					},
+				},
+				["Thoughtsteal"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[316262] = true,
+					},
+				},
+				["Aura Mastery"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[31821] = true,
+					},
+				},
+				["Death Grip"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[49576] = true,
+					},
+				},
+				["Summon Gargoyle"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 160,
+					["spellIDs"] = {
+						[49206] = true,
+					},
+				},
+				["Guardian of Ancient Kings"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 215,
+					["spellIDs"] = {
+						[86659] = true,
+					},
+				},
+				["Arcane Power"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[12042] = true,
+					},
+				},
+				["War Banner"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[236320] = true,
+					},
+				},
+				["Mirror Image"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[55342] = true,
+					},
+				},
+				["Alter Time"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[108978] = true,
+					},
+				},
+				["Mighty Bash"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 54,
+					["spellIDs"] = {
+						[5211] = true,
+					},
+				},
+				["Frozen Orb"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[84714] = true,
+					},
+				},
+				["Scatter Shot"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[213691] = true,
+					},
+				},
+				["Zen Focus Tea"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[209584] = true,
+					},
+				},
+				["Renewal"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[108238] = true,
+					},
+				},
+				["Rain from Above"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[206803] = true,
+					},
+				},
+				["Heroism"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[32182] = true,
+					},
+				},
+				["Shining Force"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[204263] = true,
+					},
+				},
+				["Feral Lunge"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[196884] = true,
+					},
+				},
+				["Aspect of the Turtle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 144,
+					["spellIDs"] = {
+						[186265] = true,
+					},
+				},
+				["Counterstrike Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[204331] = true,
+					},
+				},
+				["Spear Hand Strike"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[116705] = true,
+					},
+				},
+				["Howl of Terror"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[5484] = true,
+					},
+				},
+				["Camouflage"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[199483] = true,
+					},
+				},
+				["Icy Veins"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[12472] = true,
+					},
+				},
+				["Maim"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[22570] = true,
+					},
+				},
+				["Berserk"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[106951] = true,
+					},
+				},
+				["Divine Ascension"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[328530] = true,
+					},
+				},
+				["Spell Reflection"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[23920] = true,
+					},
+				},
+				["Holy Avenger"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[105809] = true,
+					},
+				},
+				["Greater Invisibility"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[110959] = true,
+					},
+				},
+				["Hex"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 10,
+					["spellIDs"] = {
+						[277784] = true,
+					},
+				},
+				["Optical Blast"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[115781] = true,
+					},
+				},
+				["Intimidation"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[19577] = true,
+					},
+				},
+				["Rocket Jump"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[69070] = true,
+					},
+				},
+				["Divine Steed"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[190784] = true,
+					},
+				},
+				["Strangulate"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[47476] = true,
+					},
+				},
+				["Cloak of Shadows"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31224] = true,
+					},
+				},
+				["Mass Entanglement"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 27,
+					["spellIDs"] = {
+						[102359] = true,
+					},
+				},
+				["Blinding Light"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[115750] = true,
+					},
+				},
+				["Pain Suppression"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[33206] = true,
+					},
+				},
+				["Incarnation: King of the Jungle"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102543] = true,
+					},
+				},
+				["Dancing Rune Weapon"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[49028] = true,
+					},
+				},
+				["Summon Infernal"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[1122] = true,
+					},
+				},
+				["Power Word: Barrier"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[62618] = true,
+					},
+				},
+				["Gorefiend's Grasp"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[108199] = true,
+					},
+				},
+				["Thunderstorm"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[51490] = true,
+					},
+				},
+				["Gladiator's Medallion"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[336126] = true,
+					},
+				},
+				["Ursol's Vortex"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[102793] = true,
+					},
+				},
+				["Blood Fury"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[33697] = true,
+					},
+				},
+				["Shockwave"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[46968] = true,
+					},
+				},
+				["Spiritwalker's Grace"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[79206] = true,
+					},
+				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+				},
+				["Celestial Alignment"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[194223] = true,
+					},
+				},
+				["Shadow Blades"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[121471] = true,
+					},
+				},
+				["Ice Form"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[198144] = true,
+					},
+				},
+				["Avatar"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[107574] = true,
+					},
+				},
+				["Adrenaline Rush"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[13750] = true,
+					},
+				},
+				["Sundering"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[197214] = true,
+					},
+				},
+				["Lay on Hands"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[633] = true,
+					},
+				},
+				["Transcendence: Transfer"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[119996] = true,
+					},
+				},
+				["Arcane Torrent"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[80483] = true,
+					},
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60.3,
+					["spellIDs"] = {
+						[46924] = true,
+					},
+				},
+				["Shadowfury"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[30283] = true,
+					},
+				},
+				["Plunder Armor"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[198529] = true,
+					},
+				},
+				["Sprint"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[2983] = true,
+					},
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
+					["spellIDs"] = {
+						[31230] = true,
+					},
+				},
+				["Grounding Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[204336] = true,
+					},
+				},
+				["Divine Shield"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[642] = true,
+					},
+				},
+				["Intimidating Shout"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[5246] = true,
+					},
+				},
+				["Darkflight"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[68992] = true,
+					},
+				},
+				["Sigil of Misery"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[207684] = true,
+					},
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[96231] = true,
+					},
+				},
+				["Ancestral Protection Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[207399] = true,
+					},
+				},
+				["Axe Toss"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[89766] = true,
+					},
+				},
+				["Binding Shot"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[109248] = true,
+					},
+				},
+				["Metamorphosis"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[187827] = true,
+					},
+				},
+				["Shadowstep"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 22,
+					["spellIDs"] = {
+						[36554] = true,
+					},
+				},
+				["Paralysis"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[115078] = true,
+					},
+				},
+				["Call Felhunter"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[212619] = true,
+					},
+				},
+				["Feral Spirit"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[51533] = true,
+					},
+				},
+				["Grappling Hook"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[195457] = true,
+					},
+				},
+				["Shadowmeld"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[58984] = true,
+					},
+				},
+				["Imprison"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[217832] = true,
+					},
+				},
+				["Desperate Prayer"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[19236] = true,
+					},
+				},
+				["Lichborne"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[49039] = true,
+					},
+				},
+				["Blessing of Sacrifice"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 72,
+					["spellIDs"] = {
+						[6940] = true,
+					},
+				},
+				["Blinding Sleet"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[207167] = true,
+					},
+				},
+				["Rebirth"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 600,
+					["spellIDs"] = {
+						[20484] = true,
+					},
+				},
+				["Asphyxiate"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[108194] = true,
+					},
+				},
+				["Sharpen Blade"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[198817] = true,
+					},
+				},
+				["Song of Chi-Ji"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[198898] = true,
+					},
+				},
+				["Power Infusion"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[10060] = true,
+					},
+				},
+				["Blessing of Spellwarding"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 108,
+					["spellIDs"] = {
+						[204018] = true,
+					},
+				},
+				["Divine Hymn"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[64843] = true,
+					},
+				},
+				["Enraged Regeneration"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[184364] = true,
+					},
+				},
+				["Ironbark"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[102342] = true,
+					},
+				},
+				["Smoke Bomb"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[212182] = true,
+					},
+				},
+				["Harpoon"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[190925] = true,
+					},
+				},
+				["Displacement"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[195676] = true,
+					},
+				},
+				["Shadow Dance"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[185313] = true,
+					},
+				},
+				["Charge"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[100] = true,
+					},
+				},
+				["Incapacitating Roar"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[99] = true,
+					},
+				},
+				["Touch of Karma"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[122470] = true,
+					},
+				},
+				["Guardian of the Forgotten Queen"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[228049] = true,
+					},
+				},
+				["Mind Freeze"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[47528] = true,
+					},
+				},
+				["Dreadblades"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[343142] = true,
+					},
+				},
+				["Heart of the Wild"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[319454] = true,
+					},
+				},
+				["Leg Sweep"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[119381] = true,
+					},
+				},
+				["Anti-Magic Shell"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[48707] = true,
+					},
+				},
+				["Spectral Sight"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[188501] = true,
+					},
+				},
+				["Capacitor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[192058] = true,
+					},
+				},
+				["PvP Trinket"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[283167] = true,
+					},
+				},
+				["Army of the Dead"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 240,
+					["spellIDs"] = {
+						[42650] = true,
+					},
+				},
+				["Incarnation: Chosen of Elune"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102560] = true,
+					},
+				},
+				["Last Stand"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 36,
+					["spellIDs"] = {
+						[12975] = true,
+					},
+				},
+				["Crimson Vial"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[185311] = true,
+					},
+				},
+				["Divine Protection"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[498] = true,
+					},
+				},
+				["Dampen Harm"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[122278] = true,
+					},
+				},
+				["Warbreaker"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[262161] = true,
+					},
+				},
+				["Serenity"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[152173] = true,
+					},
+				},
+				["Pummel"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[6552] = true,
+					},
+				},
+				["Overrun"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[202246] = true,
+					},
+				},
+				["Coordinated Assault"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
+					["spellIDs"] = {
+						[266779] = true,
+					},
+				},
+				["Psychic Scream"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[8122] = true,
+					},
+				},
+				["Nether Ward"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[212295] = true,
+					},
+				},
+				["Die by the Sword"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[118038] = true,
+					},
+				},
+				["Void Shift"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[108968] = true,
+					},
+				},
+				["Psychic Horror"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[64044] = true,
+					},
+				},
+				["Avenging Crusader"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[216331] = true,
+					},
+				},
+				["Freezing Trap"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[187650] = true,
+					},
+				},
+				["Invoke Xuen, the White Tiger"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[123904] = true,
+					},
+				},
+				["Shield Wall"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 140,
+					["spellIDs"] = {
+						[871] = true,
+					},
+				},
+				["Will of the Forsaken"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[7744] = true,
+					},
+				},
+				["Flare"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[1543] = true,
+					},
+				},
+				["Casting Circle"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[221703] = true,
+					},
+				},
+				["Diffuse Magic"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[122783] = true,
+					},
+				},
+				["Stampede"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[201430] = true,
+					},
+				},
+				["Master's Call"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[53271] = true,
+					},
+				},
+				["Incarnation: Guardian of Ursoc"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102558] = true,
+					},
+				},
+				["Dragon's Breath"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 18,
+					["spellIDs"] = {
+						[31661] = true,
+					},
+				},
+				["Rocket Barrage"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[69041] = true,
+					},
+				},
+				["Cold Snap"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 270,
+					["spellIDs"] = {
+						[235219] = true,
+					},
+				},
+				["Netherwalk"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[196555] = true,
+					},
+				},
+				["Demonic Circle: Teleport"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[48020] = true,
+					},
+				},
+				["Mind Bomb"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[205369] = true,
+					},
+				},
+				["Disrupt"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[183752] = true,
+					},
+				},
+				["Spirit Link Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[98008] = true,
+					},
+				},
+				["Dark Simulacrum"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[77606] = true,
+					},
+				},
+				["Will to Survive"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[59752] = true,
+					},
+				},
+				["Crusade"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[231895] = true,
+					},
+				},
+				["Blessing of Sanctuary"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[210256] = true,
+					},
+				},
+				["Wind Rush Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[192077] = true,
+					},
+				},
+				["Death Pact"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[48743] = true,
+					},
+				},
+				["Colossus Smash"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[167105] = true,
+					},
+				},
+				["Barkskin"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 34.2,
+					["spellIDs"] = {
+						[22812] = true,
+					},
+				},
+				["Survival Instincts"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[61336] = true,
+					},
+				},
+				["Stoneform"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[20594] = true,
+					},
+				},
+				["Exhilaration"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
+					["spellIDs"] = {
+						[109304] = true,
+					},
+				},
+				["Demonic Trample"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 20,
+					["spellIDs"] = {
+						[205629] = true,
+					},
+				},
+				["Heroic Leap"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[6544] = true,
+					},
+				},
+				["Blessing of Freedom"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 18.75,
+					["spellIDs"] = {
+						[1044] = true,
+					},
+				},
+				["Solar Beam"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[78675] = true,
+					},
+				},
+				["Invisibility"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[66] = true,
+					},
+				},
+				["Blur"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[198589] = true,
+					},
+				},
+				["Vanish"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[1856] = true,
+					},
+				},
+				["Mortal Coil"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[6789] = true,
+					},
+				},
+				["Freezing Arrow"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[209789] = true,
+					},
+				},
+				["Ethereal Form"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[210918] = true,
+					},
+				},
+				["Disarm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[236077] = true,
+					},
+				},
+				["Bestial Wrath"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 76.5,
+					["spellIDs"] = {
+						[19574] = true,
+					},
+				},
+				["Blink"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1953] = true,
+					},
+				},
+				["Muzzle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[187707] = true,
+					},
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+				},
+				["Tracker's Net"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 25,
+					["spellIDs"] = {
+						[212638] = true,
+					},
+				},
+				["Unending Resolve"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[104773] = true,
+					},
+				},
+				["Silence"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[15487] = true,
+					},
+				},
+				["Zen Meditation"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[115176] = true,
+					},
+				},
+				["Greater Fade"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[213602] = true,
+					},
+				},
+				["Vendetta"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[79140] = true,
+					},
+				},
+				["Evasion"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[5277] = true,
+					},
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31884] = true,
+					},
+				},
+				["Shambling Rush"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[91802] = true,
+					},
+				},
+				["Grapple Weapon"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[233759] = true,
+					},
+				},
+				["Blessing of Protection"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 225,
+					["spellIDs"] = {
+						[1022] = true,
+					},
+				},
+				["Combustion"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[190319] = true,
+					},
+				},
+				["Holy Ward"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[213610] = true,
+					},
+				},
+				["Berserking"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[26297] = true,
+					},
+				},
+				["Kick"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1766] = true,
+					},
+				},
+				["Guardian Spirit"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[47788] = true,
+					},
+				},
+				["Recklessness"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[1719] = true,
+					},
+				},
+				["Icebound Fortitude"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 165,
+					["spellIDs"] = {
+						[48792] = true,
+					},
+				},
+				["Duel"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[236273] = true,
+					},
+				},
+				["Reverse Magic"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[205604] = true,
+					},
+				},
+				["Ardent Defender"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 84,
+					["spellIDs"] = {
+						[31850] = true,
+					},
+				},
+				["Death's Advance"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[48265] = true,
+					},
+				},
+				["Spider Sting"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[202914] = true,
+					},
+				},
+				["Astral Shift"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[108271] = true,
+					},
+				},
+				["Tremor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[8143] = true,
+					},
+				},
+				["Tranquility"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 66,
+					["spellIDs"] = {
+						[740] = true,
+					},
+				},
+				["Chaos Nova"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 40,
+					["spellIDs"] = {
+						[344867] = true,
+					},
+				},
+				["Escape Artist"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[20589] = true,
 					},
 				},
 				["Touch of Death"] = {
@@ -1999,1997 +5982,6 @@ NameplateCooldownsAceDB = {
 			["TimerTextSize"] = 13,
 		},
 		["Jabzulash - Illidan"] = {
-			["TimerTextSize"] = 13,
-			["SpellCDs"] = {
-				["Life Cocoon"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 65,
-					["spellIDs"] = {
-						[116849] = true,
-					},
-				},
-				["Lightning Lasso"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[305483] = true,
-					},
-				},
-				["Bloodrage"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[329038] = true,
-					},
-				},
-				["Skull Bash"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[106839] = true,
-					},
-				},
-				["Eye for an Eye"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[205191] = true,
-					},
-				},
-				["Ring of Peace"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[116844] = true,
-					},
-				},
-				["Berserker Rage"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[18499] = true,
-					},
-				},
-				["Hammer of Justice"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[853] = true,
-					},
-				},
-				["Ring of Frost"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[113724] = true,
-					},
-				},
-				["Incarnation: Guardian of Ursoc"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[102558] = true,
-					},
-				},
-				["Blind"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[2094] = true,
-					},
-				},
-				["Strangulate"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[47476] = true,
-					},
-				},
-				["Counter Shot"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[147362] = true,
-					},
-				},
-				["Bladestorm"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60.3,
-					["spellIDs"] = {
-						[46924] = true,
-					},
-				},
-				["Fel Eruption"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[211881] = true,
-					},
-				},
-				["Call Fel Lord"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[212459] = true,
-					},
-				},
-				["Apocalypse"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[275699] = true,
-					},
-				},
-				["Mighty Ox Kick"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[202370] = true,
-					},
-				},
-				["Ice Block"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 210,
-					["spellIDs"] = {
-						[45438] = true,
-					},
-				},
-				["Holy Word: Chastise"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[88625] = true,
-					},
-				},
-				["Counterspell"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[2139] = true,
-					},
-				},
-				["Thoughtsteal"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[316262] = true,
-					},
-				},
-				["Death Pact"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[48743] = true,
-					},
-				},
-				["Earthgrab Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[51485] = true,
-					},
-				},
-				["Summon Gargoyle"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 160,
-					["spellIDs"] = {
-						[49206] = true,
-					},
-				},
-				["Guardian of Ancient Kings"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 215,
-					["spellIDs"] = {
-						[86659] = true,
-					},
-				},
-				["Arcane Power"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[12042] = true,
-					},
-				},
-				["War Banner"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[236320] = true,
-					},
-				},
-				["Mirror Image"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[55342] = true,
-					},
-				},
-				["Alter Time"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[108978] = true,
-					},
-				},
-				["Death Grip"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[49576] = true,
-					},
-				},
-				["Frozen Orb"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[84714] = true,
-					},
-				},
-				["Scatter Shot"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[213691] = true,
-					},
-				},
-				["Anti-Magic Shell"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 40,
-					["spellIDs"] = {
-						[48707] = true,
-					},
-				},
-				["Harpoon"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[190925] = true,
-					},
-				},
-				["Rain from Above"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[206803] = true,
-					},
-				},
-				["Heroism"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[32182] = true,
-					},
-				},
-				["Shining Force"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[204263] = true,
-					},
-				},
-				["Feral Lunge"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[196884] = true,
-					},
-				},
-				["Aspect of the Turtle"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 144,
-					["spellIDs"] = {
-						[186265] = true,
-					},
-				},
-				["Counterstrike Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[204331] = true,
-					},
-				},
-				["Asphyxiate"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[108194] = true,
-					},
-				},
-				["Howl of Terror"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 40,
-					["spellIDs"] = {
-						[5484] = true,
-					},
-				},
-				["Camouflage"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[199483] = true,
-					},
-				},
-				["Icy Veins"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[12472] = true,
-					},
-				},
-				["Maim"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[22570] = true,
-					},
-				},
-				["Berserk"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[106951] = true,
-					},
-				},
-				["Divine Ascension"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[328530] = true,
-					},
-				},
-				["Spell Reflection"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[23920] = true,
-					},
-				},
-				["Icebound Fortitude"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 165,
-					["spellIDs"] = {
-						[48792] = true,
-					},
-				},
-				["Greater Invisibility"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[110959] = true,
-					},
-				},
-				["Incarnation: Tree of Life"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[33891] = true,
-					},
-				},
-				["Optical Blast"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[115781] = true,
-					},
-				},
-				["Anti-Magic Zone"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[51052] = true,
-					},
-				},
-				["Plunder Armor"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[198529] = true,
-					},
-				},
-				["Divine Steed"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[190784] = true,
-					},
-				},
-				["Shockwave"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[46968] = true,
-					},
-				},
-				["Cloak of Shadows"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[31224] = true,
-					},
-				},
-				["Dark Simulacrum"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[77606] = true,
-					},
-				},
-				["Blinding Light"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[115750] = true,
-					},
-				},
-				["Pain Suppression"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[33206] = true,
-					},
-				},
-				["Sharpen Blade"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[198817] = true,
-					},
-				},
-				["Gorefiend's Grasp"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[108199] = true,
-					},
-				},
-				["Dancing Rune Weapon"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[49028] = true,
-					},
-				},
-				["Power Word: Barrier"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[62618] = true,
-					},
-				},
-				["Blood Fury"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[33697] = true,
-					},
-				},
-				["Song of Chi-Ji"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[198898] = true,
-					},
-				},
-				["Gladiator's Medallion"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[336126] = true,
-					},
-				},
-				["Aura Mastery"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[31821] = true,
-					},
-				},
-				["Invoke Xuen, the White Tiger"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[123904] = true,
-					},
-				},
-				["Transcendence: Transfer"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[119996] = true,
-					},
-				},
-				["Zen Focus Tea"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[209584] = true,
-					},
-				},
-				["Touch of Karma"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[122470] = true,
-					},
-				},
-				["Dampen Harm"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[122278] = true,
-					},
-				},
-				["Paralysis"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[115078] = true,
-					},
-				},
-				["Ice Form"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[198144] = true,
-					},
-				},
-				["Leg Sweep"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[119381] = true,
-					},
-				},
-				["Avenging Wrath"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[31884] = true,
-					},
-				},
-				["Diffuse Magic"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[122783] = true,
-					},
-				},
-				["Lay on Hands"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[633] = true,
-					},
-				},
-				["Spear Hand Strike"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[116705] = true,
-					},
-				},
-				["Arcane Torrent"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[80483] = true,
-					},
-				},
-				["Zen Meditation"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[115176] = true,
-					},
-				},
-				["Holy Avenger"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[105809] = true,
-					},
-				},
-				["Sundering"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 40,
-					["spellIDs"] = {
-						[197214] = true,
-					},
-				},
-				["Rebirth"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 600,
-					["spellIDs"] = {
-						[20484] = true,
-					},
-				},
-				["Blessing of Sacrifice"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 72,
-					["spellIDs"] = {
-						[6940] = true,
-					},
-				},
-				["Grounding Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[204336] = true,
-					},
-				},
-				["Divine Shield"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[642] = true,
-					},
-				},
-				["Tremor Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
-					["spellIDs"] = {
-						[8143] = true,
-					},
-				},
-				["Darkflight"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[68992] = true,
-					},
-				},
-				["Dark Pact"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[108416] = true,
-					},
-				},
-				["Incarnation: King of the Jungle"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[102543] = true,
-					},
-				},
-				["Ancestral Protection Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[207399] = true,
-					},
-				},
-				["Ironbark"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[102342] = true,
-					},
-				},
-				["Binding Shot"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[109248] = true,
-					},
-				},
-				["Rocket Jump"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[69070] = true,
-					},
-				},
-				["Metamorphosis"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[187827] = true,
-					},
-				},
-				["Ursol's Vortex"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[102793] = true,
-					},
-				},
-				["Survival Instincts"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[61336] = true,
-					},
-				},
-				["Feral Spirit"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[51533] = true,
-					},
-				},
-				["Grappling Hook"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[195457] = true,
-					},
-				},
-				["Mighty Bash"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 54,
-					["spellIDs"] = {
-						[5211] = true,
-					},
-				},
-				["Imprison"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[217832] = true,
-					},
-				},
-				["Desperate Prayer"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[19236] = true,
-					},
-				},
-				["Lichborne"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[49039] = true,
-					},
-				},
-				["Incarnation: Chosen of Elune"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[102560] = true,
-					},
-				},
-				["Blinding Sleet"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[207167] = true,
-					},
-				},
-				["Mass Entanglement"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 27,
-					["spellIDs"] = {
-						[102359] = true,
-					},
-				},
-				["Celestial Alignment"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[194223] = true,
-					},
-				},
-				["Incapacitating Roar"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[99] = true,
-					},
-				},
-				["Sprint"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[2983] = true,
-					},
-				},
-				["Faerie Swarm"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[209749] = true,
-					},
-				},
-				["Blessing of Spellwarding"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 108,
-					["spellIDs"] = {
-						[204018] = true,
-					},
-				},
-				["Divine Hymn"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[64843] = true,
-					},
-				},
-				["Berserking"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[26297] = true,
-					},
-				},
-				["Shadowmeld"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[58984] = true,
-					},
-				},
-				["Smoke Bomb"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[212182] = true,
-					},
-				},
-				["Renewal"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[108238] = true,
-					},
-				},
-				["Displacement"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[195676] = true,
-					},
-				},
-				["Illidan's Grasp"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[205630] = true,
-					},
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[10060] = true,
-					},
-				},
-				["Spiritwalker's Grace"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[79206] = true,
-					},
-				},
-				["Kick"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[1766] = true,
-					},
-				},
-				["Evasion"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[5277] = true,
-					},
-				},
-				["Mind Freeze"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[47528] = true,
-					},
-				},
-				["Dreadblades"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[343142] = true,
-					},
-				},
-				["Heart of the Wild"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[319454] = true,
-					},
-				},
-				["Shadow Dance"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[185313] = true,
-					},
-				},
-				["Duel"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[236273] = true,
-					},
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 360,
-					["spellIDs"] = {
-						[31230] = true,
-					},
-				},
-				["Capacitor Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
-					["spellIDs"] = {
-						[192058] = true,
-					},
-				},
-				["Shadowy Duel"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[207736] = true,
-					},
-				},
-				["Army of the Dead"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 240,
-					["spellIDs"] = {
-						[42650] = true,
-					},
-				},
-				["Guardian of the Forgotten Queen"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[228049] = true,
-					},
-				},
-				["Crimson Vial"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[185311] = true,
-					},
-				},
-				["Shadowstep"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 22,
-					["spellIDs"] = {
-						[36554] = true,
-					},
-				},
-				["Divine Protection"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[498] = true,
-					},
-				},
-				["Adrenaline Rush"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[13750] = true,
-					},
-				},
-				["Warbreaker"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[262161] = true,
-					},
-				},
-				["Serenity"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[152173] = true,
-					},
-				},
-				["Escape Artist"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[20589] = true,
-					},
-				},
-				["Overrun"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[202246] = true,
-					},
-				},
-				["Coordinated Assault"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
-					["spellIDs"] = {
-						[266779] = true,
-					},
-				},
-				["Psychic Scream"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[8122] = true,
-					},
-				},
-				["Blink"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[1953] = true,
-					},
-				},
-				["Shadow Blades"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[121471] = true,
-					},
-				},
-				["Void Shift"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[108968] = true,
-					},
-				},
-				["Psychic Horror"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[64044] = true,
-					},
-				},
-				["Avenging Crusader"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[216331] = true,
-					},
-				},
-				["Freezing Trap"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[187650] = true,
-					},
-				},
-				["Nether Ward"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[212295] = true,
-					},
-				},
-				["Shield Wall"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 140,
-					["spellIDs"] = {
-						[871] = true,
-					},
-				},
-				["Will of the Forsaken"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[7744] = true,
-					},
-				},
-				["Flare"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[1543] = true,
-					},
-				},
-				["Casting Circle"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[221703] = true,
-					},
-				},
-				["Disarm"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[236077] = true,
-					},
-				},
-				["Stampede"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[201430] = true,
-					},
-				},
-				["Master's Call"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[53271] = true,
-					},
-				},
-				["Sigil of Misery"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[207684] = true,
-					},
-				},
-				["Spectral Sight"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[188501] = true,
-					},
-				},
-				["Rocket Barrage"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[69041] = true,
-					},
-				},
-				["Cold Snap"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 270,
-					["spellIDs"] = {
-						[235219] = true,
-					},
-				},
-				["Netherwalk"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[196555] = true,
-					},
-				},
-				["Rebuke"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-				},
-				["Mind Bomb"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[205369] = true,
-					},
-				},
-				["Greater Fade"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[213602] = true,
-					},
-				},
-				["Spirit Link Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[98008] = true,
-					},
-				},
-				["Reverse Magic"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[205604] = true,
-					},
-				},
-				["Freezing Arrow"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[209789] = true,
-					},
-				},
-				["Crusade"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[231895] = true,
-					},
-				},
-				["Blessing of Sanctuary"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[210256] = true,
-					},
-				},
-				["Wind Rush Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[192077] = true,
-					},
-				},
-				["Disrupt"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[183752] = true,
-					},
-				},
-				["Colossus Smash"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[167105] = true,
-					},
-				},
-				["Barkskin"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 34.2,
-					["spellIDs"] = {
-						[22812] = true,
-					},
-				},
-				["Blur"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[198589] = true,
-					},
-				},
-				["Stoneform"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[20594] = true,
-					},
-				},
-				["Exhilaration"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
-					["spellIDs"] = {
-						[109304] = true,
-					},
-				},
-				["Demonic Trample"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[205629] = true,
-					},
-				},
-				["Heroic Leap"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[6544] = true,
-					},
-				},
-				["Blessing of Freedom"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 18.75,
-					["spellIDs"] = {
-						[1044] = true,
-					},
-				},
-				["Solar Beam"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 40,
-					["spellIDs"] = {
-						[78675] = true,
-					},
-				},
-				["Invisibility"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 300,
-					["spellIDs"] = {
-						[66] = true,
-					},
-				},
-				["Demonic Circle: Teleport"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[48020] = true,
-					},
-				},
-				["Vanish"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[1856] = true,
-					},
-				},
-				["Dragon's Breath"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 18,
-					["spellIDs"] = {
-						[31661] = true,
-					},
-				},
-				["Axe Toss"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[89766] = true,
-					},
-				},
-				["Mortal Coil"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[6789] = true,
-					},
-				},
-				["Shadowfury"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[30283] = true,
-					},
-				},
-				["Bestial Wrath"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 76.5,
-					["spellIDs"] = {
-						[19574] = true,
-					},
-				},
-				["Call Felhunter"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[212619] = true,
-					},
-				},
-				["Muzzle"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[187707] = true,
-					},
-				},
-				["Summon Infernal"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[1122] = true,
-					},
-				},
-				["Tracker's Net"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[212638] = true,
-					},
-				},
-				["Unending Resolve"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[104773] = true,
-					},
-				},
-				["Silence"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[15487] = true,
-					},
-				},
-				["Avatar"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[107574] = true,
-					},
-				},
-				["Enraged Regeneration"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[184364] = true,
-					},
-				},
-				["Vendetta"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[79140] = true,
-					},
-				},
-				["Charge"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[100] = true,
-					},
-				},
-				["Recklessness"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[1719] = true,
-					},
-				},
-				["Shambling Rush"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[91802] = true,
-					},
-				},
-				["Grapple Weapon"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[233759] = true,
-					},
-				},
-				["Blessing of Protection"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 225,
-					["spellIDs"] = {
-						[1022] = true,
-					},
-				},
-				["Combustion"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[190319] = true,
-					},
-				},
-				["Holy Ward"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[213610] = true,
-					},
-				},
-				["Last Stand"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 36,
-					["spellIDs"] = {
-						[12975] = true,
-					},
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-				},
-				["Healing Tide Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[108280] = true,
-					},
-				},
-				["PvP Trinket"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[283167] = true,
-					},
-				},
-				["Die by the Sword"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[118038] = true,
-					},
-				},
-				["Pummel"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[6552] = true,
-					},
-				},
-				["Intimidating Shout"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[5246] = true,
-					},
-				},
-				["Ardent Defender"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 84,
-					["spellIDs"] = {
-						[31850] = true,
-					},
-				},
-				["Death's Advance"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[48265] = true,
-					},
-				},
-				["Spider Sting"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[202914] = true,
-					},
-				},
-				["Astral Shift"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[108271] = true,
-					},
-				},
-				["Ethereal Form"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[210918] = true,
-					},
-				},
-				["Tranquility"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 66,
-					["spellIDs"] = {
-						[740] = true,
-					},
-				},
-				["Chaos Nova"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 40,
-					["spellIDs"] = {
-						[344867] = true,
-					},
-				},
-				["Frost Nova"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[122] = true,
-					},
-				},
-				["Touch of Death"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 144,
-					["spellIDs"] = {
-						[322109] = true,
-					},
-				},
-				["Killing Spree"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[51690] = true,
-					},
-				},
-				["Dismantle"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[207777] = true,
-					},
-				},
-				["Sigil of Chains"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 67.5,
-					["spellIDs"] = {
-						[202138] = true,
-					},
-				},
-				["Hex"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 10,
-					["spellIDs"] = {
-						[277784] = true,
-					},
-				},
-				["Temporal Shield"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[198111] = true,
-					},
-				},
-				["Will to Survive"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[59752] = true,
-					},
-				},
-				["Sigil of Silence"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[202137] = true,
-					},
-				},
-				["Intimidation"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[19577] = true,
-					},
-				},
-				["Dispersion"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[47585] = true,
-					},
-				},
-				["Disengage"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[781] = true,
-					},
-				},
-				["Thunderstorm"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[51490] = true,
-					},
-				},
-				["Gift of the Naaru"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[59543] = true,
-					},
-				},
-				["Guardian Spirit"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[47788] = true,
-					},
-				},
-				["Eye of Leotheras"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[206649] = true,
-					},
-				},
-				["Dragon Charge"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[206572] = true,
-					},
-				},
-				["Shroud of Concealment"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 360,
-					["spellIDs"] = {
-						[114018] = true,
-					},
-				},
-				["Bloodlust"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[2825] = true,
-					},
-				},
-				["Typhoon"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[132469] = true,
-					},
-				},
-				["Leap of Faith"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[73325] = true,
-					},
-				},
-				["Wind Shear"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 9,
-					["spellIDs"] = {
-						[57994] = true,
-					},
-				},
-				["Shimmer"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[212653] = true,
-					},
-				},
-				["Dash"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[1850] = true,
-					},
-				},
-				["Ascendance"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[114052] = true,
-					},
-				},
-				["Spell Lock"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[19647] = true,
-					},
-				},
-				["Supernova"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[157980] = true,
-					},
-				},
-			},
-			["MigrationVersion"] = 5,
-			["DBVersion"] = 10,
-		},
-		["Atuljorkho - Illidan"] = {
 			["DBVersion"] = 10,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
@@ -4384,12 +6376,12 @@ NameplateCooldownsAceDB = {
 						[23920] = true,
 					},
 				},
-				["Sundering"] = {
+				["Holy Avenger"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 40,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[197214] = true,
+						[105809] = true,
 					},
 				},
 				["Greater Invisibility"] = {
@@ -4400,12 +6392,12 @@ NameplateCooldownsAceDB = {
 						[110959] = true,
 					},
 				},
-				["Holy Avenger"] = {
+				["Hex"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
+					["class"] = "SHAMAN",
+					["cooldown"] = 10,
 					["spellIDs"] = {
-						[105809] = true,
+						[277784] = true,
 					},
 				},
 				["Optical Blast"] = {
@@ -4416,20 +6408,20 @@ NameplateCooldownsAceDB = {
 						[115781] = true,
 					},
 				},
-				["Hex"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 10,
-					["spellIDs"] = {
-						[277784] = true,
-					},
-				},
 				["Intimidation"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
 					["cooldown"] = 60,
 					["spellIDs"] = {
 						[19577] = true,
+					},
+				},
+				["Dark Pact"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[108416] = true,
 					},
 				},
 				["Divine Steed"] = {
@@ -4456,12 +6448,12 @@ NameplateCooldownsAceDB = {
 						[31224] = true,
 					},
 				},
-				["Dark Pact"] = {
+				["Mass Entanglement"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 60,
+					["class"] = "DRUID",
+					["cooldown"] = 27,
 					["spellIDs"] = {
-						[108416] = true,
+						[102359] = true,
 					},
 				},
 				["Blinding Light"] = {
@@ -4480,20 +6472,20 @@ NameplateCooldownsAceDB = {
 						[33206] = true,
 					},
 				},
-				["Rocket Jump"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[69070] = true,
-					},
-				},
 				["Faerie Swarm"] = {
 					["enabled"] = true,
 					["class"] = "DRUID",
 					["cooldown"] = 30,
 					["spellIDs"] = {
 						[209749] = true,
+					},
+				},
+				["Power Word: Barrier"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[62618] = true,
 					},
 				},
 				["Dispersion"] = {
@@ -4520,20 +6512,20 @@ NameplateCooldownsAceDB = {
 						[108199] = true,
 					},
 				},
-				["Mass Entanglement"] = {
+				["Frost Nova"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 27,
+					["class"] = "MAGE",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[102359] = true,
+						[122] = true,
 					},
 				},
-				["Gladiator's Medallion"] = {
+				["Thunderstorm"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[336126] = true,
+						[51490] = true,
 					},
 				},
 				["Sigil of Silence"] = {
@@ -4544,14 +6536,6 @@ NameplateCooldownsAceDB = {
 						[202137] = true,
 					},
 				},
-				["Frost Nova"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[122] = true,
-					},
-				},
 				["Illidan's Grasp"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
@@ -4560,12 +6544,12 @@ NameplateCooldownsAceDB = {
 						[205630] = true,
 					},
 				},
-				["Bladestorm"] = {
+				["Shockwave"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
-					["cooldown"] = 60.3,
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[46924] = true,
+						[46968] = true,
 					},
 				},
 				["Healing Tide Totem"] = {
@@ -4576,6 +6560,14 @@ NameplateCooldownsAceDB = {
 						[108280] = true,
 					},
 				},
+				["Storm Bolt"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[107570] = true,
+					},
+				},
 				["Dismantle"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
@@ -4584,12 +6576,12 @@ NameplateCooldownsAceDB = {
 						[207777] = true,
 					},
 				},
-				["Shadowmeld"] = {
+				["Shadow Blades"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[58984] = true,
+						[121471] = true,
 					},
 				},
 				["Ice Form"] = {
@@ -4600,28 +6592,28 @@ NameplateCooldownsAceDB = {
 						[198144] = true,
 					},
 				},
-				["Plunder Armor"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[198529] = true,
-					},
-				},
-				["Intimidating Shout"] = {
+				["Avatar"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[5246] = true,
+						[107574] = true,
 					},
 				},
-				["Spiritwalker's Grace"] = {
+				["Escape Artist"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
+					["class"] = "MISC",
 					["cooldown"] = 60,
 					["spellIDs"] = {
-						[79206] = true,
+						[20589] = true,
+					},
+				},
+				["Bladestorm"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60.3,
+					["spellIDs"] = {
+						[46924] = true,
 					},
 				},
 				["Lay on Hands"] = {
@@ -4632,12 +6624,12 @@ NameplateCooldownsAceDB = {
 						[633] = true,
 					},
 				},
-				["Kick"] = {
+				["Transcendence: Transfer"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 15,
+					["class"] = "MONK",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[1766] = true,
+						[119996] = true,
 					},
 				},
 				["Arcane Torrent"] = {
@@ -4648,12 +6640,12 @@ NameplateCooldownsAceDB = {
 						[80483] = true,
 					},
 				},
-				["Storm Bolt"] = {
+				["Tremor Totem"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 30,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
 					["spellIDs"] = {
-						[107570] = true,
+						[8143] = true,
 					},
 				},
 				["Astral Shift"] = {
@@ -4664,36 +6656,12 @@ NameplateCooldownsAceDB = {
 						[108271] = true,
 					},
 				},
-				["Transcendence: Transfer"] = {
+				["Plunder Armor"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 25,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[119996] = true,
-					},
-				},
-				["Metamorphosis"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[187827] = true,
-					},
-				},
-				["Duel"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[236273] = true,
-					},
-				},
-				["Grounding Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[204336] = true,
+						[198529] = true,
 					},
 				},
 				["Divine Shield"] = {
@@ -4704,12 +6672,36 @@ NameplateCooldownsAceDB = {
 						[642] = true,
 					},
 				},
-				["Tremor Totem"] = {
+				["Intimidating Shout"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[5246] = true,
+					},
+				},
+				["Grounding Totem"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
-					["cooldown"] = 59,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[8143] = true,
+						[204336] = true,
+					},
+				},
+				["Sprint"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[2983] = true,
+					},
+				},
+				["Cheat Death"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
+					["spellIDs"] = {
+						[31230] = true,
 					},
 				},
 				["Darkflight"] = {
@@ -4720,20 +6712,20 @@ NameplateCooldownsAceDB = {
 						[68992] = true,
 					},
 				},
-				["Feral Spirit"] = {
+				["Sigil of Misery"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 90,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[51533] = true,
+						[207684] = true,
 					},
 				},
-				["Berserking"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[26297] = true,
+						[205604] = true,
 					},
 				},
 				["Ancestral Protection Totem"] = {
@@ -4744,12 +6736,12 @@ NameplateCooldownsAceDB = {
 						[207399] = true,
 					},
 				},
-				["Asphyxiate"] = {
+				["Duel"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 45,
+					["class"] = "WARRIOR",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[108194] = true,
+						[236273] = true,
 					},
 				},
 				["Binding Shot"] = {
@@ -4760,44 +6752,44 @@ NameplateCooldownsAceDB = {
 						[109248] = true,
 					},
 				},
-				["Recklessness"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[1719] = true,
-					},
-				},
-				["Shadowstep"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 22,
-					["spellIDs"] = {
-						[36554] = true,
-					},
-				},
-				["Charge"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[100] = true,
-					},
-				},
-				["Harpoon"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[190925] = true,
-					},
-				},
 				["Icebound Fortitude"] = {
 					["enabled"] = true,
 					["class"] = "DEATHKNIGHT",
 					["cooldown"] = 165,
 					["spellIDs"] = {
 						[48792] = true,
+					},
+				},
+				["Metamorphosis"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[187827] = true,
+					},
+				},
+				["Call Felhunter"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[212619] = true,
+					},
+				},
+				["Berserking"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[26297] = true,
+					},
+				},
+				["Feral Spirit"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[51533] = true,
 					},
 				},
 				["Grappling Hook"] = {
@@ -4808,12 +6800,12 @@ NameplateCooldownsAceDB = {
 						[195457] = true,
 					},
 				},
-				["Enraged Regeneration"] = {
+				["Kick"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 120,
+					["class"] = "ROGUE",
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[184364] = true,
+						[1766] = true,
 					},
 				},
 				["Imprison"] = {
@@ -4840,12 +6832,12 @@ NameplateCooldownsAceDB = {
 						[49039] = true,
 					},
 				},
-				["Avatar"] = {
+				["Enraged Regeneration"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
-					["cooldown"] = 90,
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[107574] = true,
+						[184364] = true,
 					},
 				},
 				["Blinding Sleet"] = {
@@ -4864,12 +6856,12 @@ NameplateCooldownsAceDB = {
 						[213610] = true,
 					},
 				},
-				["Power Infusion"] = {
+				["Ironbark"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[10060] = true,
+						[102342] = true,
 					},
 				},
 				["Blessing of Protection"] = {
@@ -4880,20 +6872,20 @@ NameplateCooldownsAceDB = {
 						[1022] = true,
 					},
 				},
-				["Psychic Scream"] = {
+				["Smoke Bomb"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[8122] = true,
+						[212182] = true,
 					},
 				},
-				["Leg Sweep"] = {
+				["Harpoon"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 45,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[119381] = true,
+						[190925] = true,
 					},
 				},
 				["Blessing of Spellwarding"] = {
@@ -4920,12 +6912,12 @@ NameplateCooldownsAceDB = {
 						[47788] = true,
 					},
 				},
-				["Ironbark"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 90,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[102342] = true,
+						[58984] = true,
 					},
 				},
 				["Song of Chi-Ji"] = {
@@ -4936,12 +6928,12 @@ NameplateCooldownsAceDB = {
 						[198898] = true,
 					},
 				},
-				["Call Felhunter"] = {
+				["Evasion"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[212619] = true,
+						[5277] = true,
 					},
 				},
 				["Displacement"] = {
@@ -4952,12 +6944,12 @@ NameplateCooldownsAceDB = {
 						[195676] = true,
 					},
 				},
-				["Coordinated Assault"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 96,
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[266779] = true,
+						[10060] = true,
 					},
 				},
 				["Avenging Wrath"] = {
@@ -4976,20 +6968,20 @@ NameplateCooldownsAceDB = {
 						[79140] = true,
 					},
 				},
-				["Anti-Magic Shell"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 40,
+					["class"] = "PRIEST",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[48707] = true,
+						[213602] = true,
 					},
 				},
-				["Dampen Harm"] = {
+				["Guardian of the Forgotten Queen"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 120,
+					["class"] = "PALADIN",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[122278] = true,
+						[228049] = true,
 					},
 				},
 				["Mind Freeze"] = {
@@ -5024,68 +7016,12 @@ NameplateCooldownsAceDB = {
 						[185313] = true,
 					},
 				},
-				["Spectral Sight"] = {
-					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[188501] = true,
-					},
-				},
 				["Last Stand"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
 					["cooldown"] = 36,
 					["spellIDs"] = {
 						[12975] = true,
-					},
-				},
-				["Capacitor Totem"] = {
-					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
-					["spellIDs"] = {
-						[192058] = true,
-					},
-				},
-				["Nether Ward"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[212295] = true,
-					},
-				},
-				["Army of the Dead"] = {
-					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 240,
-					["spellIDs"] = {
-						[42650] = true,
-					},
-				},
-				["Guardian of the Forgotten Queen"] = {
-					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[228049] = true,
-					},
-				},
-				["Flare"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 20,
-					["spellIDs"] = {
-						[1543] = true,
-					},
-				},
-				["Muzzle"] = {
-					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[187707] = true,
 					},
 				},
 				["Divine Protection"] = {
@@ -5096,12 +7032,68 @@ NameplateCooldownsAceDB = {
 						[498] = true,
 					},
 				},
-				["Diffuse Magic"] = {
+				["Touch of Karma"] = {
 					["enabled"] = true,
 					["class"] = "MONK",
-					["cooldown"] = 90,
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[122783] = true,
+						[122470] = true,
+					},
+				},
+				["Coordinated Assault"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 96,
+					["spellIDs"] = {
+						[266779] = true,
+					},
+				},
+				["Army of the Dead"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 240,
+					["spellIDs"] = {
+						[42650] = true,
+					},
+				},
+				["Incarnation: Chosen of Elune"] = {
+					["enabled"] = true,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
+					["spellIDs"] = {
+						[102560] = true,
+					},
+				},
+				["Shadowy Duel"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[207736] = true,
+					},
+				},
+				["Muzzle"] = {
+					["enabled"] = true,
+					["class"] = "HUNTER",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[187707] = true,
+					},
+				},
+				["Spectral Sight"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[188501] = true,
+					},
+				},
+				["Dampen Harm"] = {
+					["enabled"] = true,
+					["class"] = "MONK",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[122278] = true,
 					},
 				},
 				["Warbreaker"] = {
@@ -5120,12 +7112,12 @@ NameplateCooldownsAceDB = {
 						[152173] = true,
 					},
 				},
-				["Stampede"] = {
+				["Bestial Wrath"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
-					["cooldown"] = 120,
+					["cooldown"] = 76.5,
 					["spellIDs"] = {
-						[201430] = true,
+						[19574] = true,
 					},
 				},
 				["Overrun"] = {
@@ -5144,36 +7136,36 @@ NameplateCooldownsAceDB = {
 						[283167] = true,
 					},
 				},
-				["Shadowy Duel"] = {
+				["Anti-Magic Shell"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 40,
 					["spellIDs"] = {
-						[207736] = true,
+						[48707] = true,
 					},
 				},
-				["Blink"] = {
-					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[1953] = true,
-					},
-				},
-				["Axe Toss"] = {
+				["Nether Ward"] = {
 					["enabled"] = true,
 					["class"] = "WARLOCK",
-					["cooldown"] = 30,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[89766] = true,
+						[212295] = true,
 					},
 				},
-				["Void Shift"] = {
+				["Disarm"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 300,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[108968] = true,
+						[236077] = true,
+					},
+				},
+				["Pummel"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[6552] = true,
 					},
 				},
 				["Psychic Horror"] = {
@@ -5184,12 +7176,12 @@ NameplateCooldownsAceDB = {
 						[64044] = true,
 					},
 				},
-				["Avenging Crusader"] = {
+				["Die by the Sword"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
+					["class"] = "WARRIOR",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[216331] = true,
+						[118038] = true,
 					},
 				},
 				["Freezing Trap"] = {
@@ -5200,12 +7192,12 @@ NameplateCooldownsAceDB = {
 						[187650] = true,
 					},
 				},
-				["Reverse Magic"] = {
+				["Ethereal Form"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[205604] = true,
+						[210918] = true,
 					},
 				},
 				["Shield Wall"] = {
@@ -5224,12 +7216,12 @@ NameplateCooldownsAceDB = {
 						[7744] = true,
 					},
 				},
-				["Bestial Wrath"] = {
+				["Flare"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
-					["cooldown"] = 76.5,
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[19574] = true,
+						[1543] = true,
 					},
 				},
 				["Casting Circle"] = {
@@ -5240,20 +7232,20 @@ NameplateCooldownsAceDB = {
 						[221703] = true,
 					},
 				},
-				["Disarm"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 45,
+					["class"] = "MONK",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[236077] = true,
+						[122783] = true,
 					},
 				},
-				["Ethereal Form"] = {
+				["Stampede"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 45,
+					["class"] = "HUNTER",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[210918] = true,
+						[201430] = true,
 					},
 				},
 				["Master's Call"] = {
@@ -5280,12 +7272,12 @@ NameplateCooldownsAceDB = {
 						[6789] = true,
 					},
 				},
-				["Rocket Barrage"] = {
+				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
+					["class"] = "MONK",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[69041] = true,
+						[123904] = true,
 					},
 				},
 				["Cold Snap"] = {
@@ -5296,12 +7288,12 @@ NameplateCooldownsAceDB = {
 						[235219] = true,
 					},
 				},
-				["Netherwalk"] = {
+				["Incarnation: Guardian of Ursoc"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 180,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[196555] = true,
+						[102558] = true,
 					},
 				},
 				["Demonic Circle: Teleport"] = {
@@ -5320,12 +7312,12 @@ NameplateCooldownsAceDB = {
 						[205369] = true,
 					},
 				},
-				["Blessing of Sanctuary"] = {
+				["Blur"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
+					["class"] = "DEMONHUNTER",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[210256] = true,
+						[198589] = true,
 					},
 				},
 				["Spirit Link Totem"] = {
@@ -5344,12 +7336,12 @@ NameplateCooldownsAceDB = {
 						[66] = true,
 					},
 				},
-				["Blur"] = {
+				["Blessing of Sanctuary"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
+					["class"] = "PALADIN",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[198589] = true,
+						[210256] = true,
 					},
 				},
 				["Crusade"] = {
@@ -5488,44 +7480,44 @@ NameplateCooldownsAceDB = {
 						[31661] = true,
 					},
 				},
-				["Incarnation: Guardian of Ursoc"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[102558] = true,
+						[196555] = true,
 					},
 				},
-				["Invoke Xuen, the White Tiger"] = {
+				["Rocket Barrage"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
+					["class"] = "MISC",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[123904] = true,
+						[69041] = true,
 					},
 				},
-				["Greater Fade"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 45,
-					["spellIDs"] = {
-						[213602] = true,
-					},
-				},
-				["Rebuke"] = {
+				["Avenging Crusader"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[96231] = true,
-					},
-				},
-				["Die by the Sword"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[118038] = true,
+						[216331] = true,
+					},
+				},
+				["Void Shift"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[108968] = true,
+					},
+				},
+				["Blink"] = {
+					["enabled"] = true,
+					["class"] = "MAGE",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[1953] = true,
 					},
 				},
 				["Crimson Vial"] = {
@@ -5536,12 +7528,12 @@ NameplateCooldownsAceDB = {
 						[185311] = true,
 					},
 				},
-				["Pummel"] = {
+				["Psychic Scream"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 15,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[6552] = true,
+						[8122] = true,
 					},
 				},
 				["Tracker's Net"] = {
@@ -5568,20 +7560,20 @@ NameplateCooldownsAceDB = {
 						[15487] = true,
 					},
 				},
-				["Sigil of Misery"] = {
+				["Zen Meditation"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
+					["class"] = "MONK",
+					["cooldown"] = 75,
 					["spellIDs"] = {
-						[207684] = true,
+						[115176] = true,
 					},
 				},
-				["Incarnation: Chosen of Elune"] = {
+				["Capacitor Totem"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
 					["spellIDs"] = {
-						[102560] = true,
+						[192058] = true,
 					},
 				},
 				["Incapacitating Roar"] = {
@@ -5592,20 +7584,20 @@ NameplateCooldownsAceDB = {
 						[99] = true,
 					},
 				},
-				["Touch of Karma"] = {
+				["Leg Sweep"] = {
 					["enabled"] = true,
 					["class"] = "MONK",
-					["cooldown"] = 60,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[122470] = true,
+						[119381] = true,
 					},
 				},
-				["Smoke Bomb"] = {
+				["Charge"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
+					["class"] = "WARRIOR",
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[212182] = true,
+						[100] = true,
 					},
 				},
 				["Shambling Rush"] = {
@@ -5624,12 +7616,12 @@ NameplateCooldownsAceDB = {
 						[233759] = true,
 					},
 				},
-				["Sharpen Blade"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
+					["class"] = "PALADIN",
+					["cooldown"] = 72,
 					["spellIDs"] = {
-						[198817] = true,
+						[6940] = true,
 					},
 				},
 				["Combustion"] = {
@@ -5648,20 +7640,12 @@ NameplateCooldownsAceDB = {
 						[20484] = true,
 					},
 				},
-				["Escape Artist"] = {
+				["Sharpen Blade"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[20589] = true,
-					},
-				},
-				["Adrenaline Rush"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[13750] = true,
+						[198817] = true,
 					},
 				},
 				["Paralysis"] = {
@@ -5672,36 +7656,44 @@ NameplateCooldownsAceDB = {
 						[115078] = true,
 					},
 				},
-				["Blessing of Sacrifice"] = {
+				["Recklessness"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[1719] = true,
+					},
+				},
+				["Asphyxiate"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[108194] = true,
+					},
+				},
+				["Shadowstep"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 22,
+					["spellIDs"] = {
+						[36554] = true,
+					},
+				},
+				["Axe Toss"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[89766] = true,
+					},
+				},
+				["Rebuke"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 72,
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[6940] = true,
-					},
-				},
-				["Zen Meditation"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 75,
-					["spellIDs"] = {
-						[115176] = true,
-					},
-				},
-				["Shadow Blades"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[121471] = true,
-					},
-				},
-				["Cheat Death"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 360,
-					["spellIDs"] = {
-						[31230] = true,
+						[96231] = true,
 					},
 				},
 				["Ardent Defender"] = {
@@ -5736,12 +7728,12 @@ NameplateCooldownsAceDB = {
 						[30283] = true,
 					},
 				},
-				["Evasion"] = {
+				["Sundering"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
+					["class"] = "SHAMAN",
+					["cooldown"] = 40,
 					["spellIDs"] = {
-						[5277] = true,
+						[197214] = true,
 					},
 				},
 				["Tranquility"] = {
@@ -5760,12 +7752,12 @@ NameplateCooldownsAceDB = {
 						[344867] = true,
 					},
 				},
-				["Sprint"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
-					["cooldown"] = 60,
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[2983] = true,
+						[13750] = true,
 					},
 				},
 				["Touch of Death"] = {
@@ -5800,12 +7792,12 @@ NameplateCooldownsAceDB = {
 						[202138] = true,
 					},
 				},
-				["Shockwave"] = {
+				["Spiritwalker's Grace"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[46968] = true,
+						[79206] = true,
 					},
 				},
 				["Temporal Shield"] = {
@@ -5832,12 +7824,12 @@ NameplateCooldownsAceDB = {
 						[102793] = true,
 					},
 				},
-				["Incarnation: King of the Jungle"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[102543] = true,
+						[336126] = true,
 					},
 				},
 				["Summon Infernal"] = {
@@ -5856,12 +7848,12 @@ NameplateCooldownsAceDB = {
 						[781] = true,
 					},
 				},
-				["Thunderstorm"] = {
+				["Incarnation: King of the Jungle"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[51490] = true,
+						[102543] = true,
 					},
 				},
 				["Gift of the Naaru"] = {
@@ -5872,12 +7864,12 @@ NameplateCooldownsAceDB = {
 						[59543] = true,
 					},
 				},
-				["Power Word: Barrier"] = {
+				["Rocket Jump"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
+					["class"] = "MISC",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[62618] = true,
+						[69070] = true,
 					},
 				},
 				["Eye of Leotheras"] = {
@@ -5980,7 +7972,8 @@ NameplateCooldownsAceDB = {
 			["MigrationVersion"] = 5,
 			["TimerTextSize"] = 13,
 		},
-		["Joburt - Illidan"] = {
+		["Nikkhalkaj - Illidan"] = {
+			["DBVersion"] = 10,
 			["SpellCDs"] = {
 				["Life Cocoon"] = {
 					["enabled"] = true,
@@ -6478,12 +8471,12 @@ NameplateCooldownsAceDB = {
 						[209749] = true,
 					},
 				},
-				["Incarnation: King of the Jungle"] = {
+				["Power Word: Barrier"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "PRIEST",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[102543] = true,
+						[62618] = true,
 					},
 				},
 				["Dispersion"] = {
@@ -6494,12 +8487,12 @@ NameplateCooldownsAceDB = {
 						[47585] = true,
 					},
 				},
-				["Power Word: Barrier"] = {
+				["Dancing Rune Weapon"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[62618] = true,
+						[49028] = true,
 					},
 				},
 				["Gorefiend's Grasp"] = {
@@ -6518,12 +8511,12 @@ NameplateCooldownsAceDB = {
 						[122] = true,
 					},
 				},
-				["Thunderstorm"] = {
+				["Gladiator's Medallion"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 30,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[51490] = true,
+						[336126] = true,
 					},
 				},
 				["Sigil of Silence"] = {
@@ -6558,12 +8551,12 @@ NameplateCooldownsAceDB = {
 						[108280] = true,
 					},
 				},
-				["Spiritwalker's Grace"] = {
+				["Storm Bolt"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 60,
+					["class"] = "WARRIOR",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[79206] = true,
+						[107570] = true,
 					},
 				},
 				["Dismantle"] = {
@@ -6574,12 +8567,12 @@ NameplateCooldownsAceDB = {
 						[207777] = true,
 					},
 				},
-				["Transcendence: Transfer"] = {
+				["Shadow Blades"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 25,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[119996] = true,
+						[121471] = true,
 					},
 				},
 				["Ice Form"] = {
@@ -6590,28 +8583,28 @@ NameplateCooldownsAceDB = {
 						[198144] = true,
 					},
 				},
+				["Avatar"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[107574] = true,
+					},
+				},
+				["Escape Artist"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 60,
+					["spellIDs"] = {
+						[20589] = true,
+					},
+				},
 				["Sundering"] = {
 					["enabled"] = true,
 					["class"] = "SHAMAN",
 					["cooldown"] = 40,
 					["spellIDs"] = {
 						[197214] = true,
-					},
-				},
-				["Storm Bolt"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[107570] = true,
-					},
-				},
-				["Intimidating Shout"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[5246] = true,
 					},
 				},
 				["Lay on Hands"] = {
@@ -6622,12 +8615,12 @@ NameplateCooldownsAceDB = {
 						[633] = true,
 					},
 				},
-				["Harpoon"] = {
+				["Plunder Armor"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 30,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[190925] = true,
+						[198529] = true,
 					},
 				},
 				["Arcane Torrent"] = {
@@ -6638,12 +8631,12 @@ NameplateCooldownsAceDB = {
 						[80483] = true,
 					},
 				},
-				["Asphyxiate"] = {
+				["Intimidating Shout"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 45,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[108194] = true,
+						[5246] = true,
 					},
 				},
 				["Astral Shift"] = {
@@ -6662,20 +8655,20 @@ NameplateCooldownsAceDB = {
 						[46924] = true,
 					},
 				},
-				["Shadow Blades"] = {
+				["Divine Shield"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[121471] = true,
+						[642] = true,
 					},
 				},
-				["Duel"] = {
+				["Tremor Totem"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 60,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
 					["spellIDs"] = {
-						[236273] = true,
+						[8143] = true,
 					},
 				},
 				["Grounding Totem"] = {
@@ -6694,12 +8687,12 @@ NameplateCooldownsAceDB = {
 						[2983] = true,
 					},
 				},
-				["Tremor Totem"] = {
+				["Cheat Death"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
+					["class"] = "ROGUE",
+					["cooldown"] = 360,
 					["spellIDs"] = {
-						[8143] = true,
+						[31230] = true,
 					},
 				},
 				["Darkflight"] = {
@@ -6710,20 +8703,20 @@ NameplateCooldownsAceDB = {
 						[68992] = true,
 					},
 				},
-				["Metamorphosis"] = {
+				["Sigil of Misery"] = {
 					["enabled"] = true,
 					["class"] = "DEMONHUNTER",
-					["cooldown"] = 75,
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[187827] = true,
+						[207684] = true,
 					},
 				},
-				["Icebound Fortitude"] = {
+				["Reverse Magic"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 165,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[48792] = true,
+						[205604] = true,
 					},
 				},
 				["Ancestral Protection Totem"] = {
@@ -6734,14 +8727,6 @@ NameplateCooldownsAceDB = {
 						[207399] = true,
 					},
 				},
-				["Enraged Regeneration"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[184364] = true,
-					},
-				},
 				["Binding Shot"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
@@ -6750,36 +8735,12 @@ NameplateCooldownsAceDB = {
 						[109248] = true,
 					},
 				},
-				["Desperate Prayer"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 90,
-					["spellIDs"] = {
-						[19236] = true,
-					},
-				},
-				["Shadowstep"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 22,
-					["spellIDs"] = {
-						[36554] = true,
-					},
-				},
-				["Avatar"] = {
+				["Duel"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
-					["cooldown"] = 90,
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[107574] = true,
-					},
-				},
-				["Power Infusion"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[10060] = true,
+						[236273] = true,
 					},
 				},
 				["Feral Spirit"] = {
@@ -6790,6 +8751,38 @@ NameplateCooldownsAceDB = {
 						[51533] = true,
 					},
 				},
+				["Shadowstep"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 22,
+					["spellIDs"] = {
+						[36554] = true,
+					},
+				},
+				["Call Felhunter"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 24,
+					["spellIDs"] = {
+						[212619] = true,
+					},
+				},
+				["Berserking"] = {
+					["enabled"] = true,
+					["class"] = "MISC",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[26297] = true,
+					},
+				},
+				["Icebound Fortitude"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 165,
+					["spellIDs"] = {
+						[48792] = true,
+					},
+				},
 				["Grappling Hook"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
@@ -6798,12 +8791,12 @@ NameplateCooldownsAceDB = {
 						[195457] = true,
 					},
 				},
-				["Guardian Spirit"] = {
+				["Ironbark"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 120,
+					["class"] = "DRUID",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[47788] = true,
+						[102342] = true,
 					},
 				},
 				["Imprison"] = {
@@ -6814,12 +8807,12 @@ NameplateCooldownsAceDB = {
 						[217832] = true,
 					},
 				},
-				["Recklessness"] = {
+				["Desperate Prayer"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
+					["class"] = "PRIEST",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[1719] = true,
+						[19236] = true,
 					},
 				},
 				["Lichborne"] = {
@@ -6830,12 +8823,12 @@ NameplateCooldownsAceDB = {
 						[49039] = true,
 					},
 				},
-				["Ironbark"] = {
+				["Enraged Regeneration"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 90,
+					["class"] = "WARRIOR",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[102342] = true,
+						[184364] = true,
 					},
 				},
 				["Blinding Sleet"] = {
@@ -6854,12 +8847,12 @@ NameplateCooldownsAceDB = {
 						[213610] = true,
 					},
 				},
-				["Smoke Bomb"] = {
+				["Kick"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
-					["cooldown"] = 180,
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[212182] = true,
+						[1766] = true,
 					},
 				},
 				["Blessing of Protection"] = {
@@ -6870,20 +8863,20 @@ NameplateCooldownsAceDB = {
 						[1022] = true,
 					},
 				},
+				["Smoke Bomb"] = {
+					["enabled"] = true,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
+					["spellIDs"] = {
+						[212182] = true,
+					},
+				},
 				["Charge"] = {
 					["enabled"] = true,
 					["class"] = "WARRIOR",
 					["cooldown"] = 20,
 					["spellIDs"] = {
 						[100] = true,
-					},
-				},
-				["Incarnation: Chosen of Elune"] = {
-					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
-					["spellIDs"] = {
-						[102560] = true,
 					},
 				},
 				["Blessing of Spellwarding"] = {
@@ -6902,20 +8895,20 @@ NameplateCooldownsAceDB = {
 						[64843] = true,
 					},
 				},
-				["Berserking"] = {
+				["Guardian Spirit"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 180,
+					["class"] = "PRIEST",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[26297] = true,
+						[47788] = true,
 					},
 				},
-				["Kick"] = {
+				["Shadowmeld"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 15,
+					["class"] = "MISC",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[1766] = true,
+						[58984] = true,
 					},
 				},
 				["Song of Chi-Ji"] = {
@@ -6926,12 +8919,12 @@ NameplateCooldownsAceDB = {
 						[198898] = true,
 					},
 				},
-				["Shadow Dance"] = {
+				["Evasion"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
-					["cooldown"] = 60,
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[185313] = true,
+						[5277] = true,
 					},
 				},
 				["Displacement"] = {
@@ -6942,20 +8935,20 @@ NameplateCooldownsAceDB = {
 						[195676] = true,
 					},
 				},
-				["Last Stand"] = {
+				["Power Infusion"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 36,
-					["spellIDs"] = {
-						[12975] = true,
-					},
-				},
-				["Evasion"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
+					["class"] = "PRIEST",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[5277] = true,
+						[10060] = true,
+					},
+				},
+				["Avenging Wrath"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 120,
+					["spellIDs"] = {
+						[31884] = true,
 					},
 				},
 				["Vendetta"] = {
@@ -6966,20 +8959,20 @@ NameplateCooldownsAceDB = {
 						[79140] = true,
 					},
 				},
-				["Nether Ward"] = {
+				["Greater Fade"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
+					["class"] = "PRIEST",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[212295] = true,
+						[213602] = true,
 					},
 				},
-				["Divine Protection"] = {
+				["Guardian of the Forgotten Queen"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 30,
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[498] = true,
+						[228049] = true,
 					},
 				},
 				["Mind Freeze"] = {
@@ -7014,12 +9007,28 @@ NameplateCooldownsAceDB = {
 						[119381] = true,
 					},
 				},
-				["Rebuke"] = {
+				["Psychic Scream"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[8122] = true,
+					},
+				},
+				["Divine Protection"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 15,
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[96231] = true,
+						[498] = true,
+					},
+				},
+				["Capacitor Totem"] = {
+					["enabled"] = true,
+					["class"] = "SHAMAN",
+					["cooldown"] = 59,
+					["spellIDs"] = {
+						[192058] = true,
 					},
 				},
 				["Coordinated Assault"] = {
@@ -7030,22 +9039,6 @@ NameplateCooldownsAceDB = {
 						[266779] = true,
 					},
 				},
-				["Touch of Karma"] = {
-					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[122470] = true,
-					},
-				},
-				["Psychic Scream"] = {
-					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 30,
-					["spellIDs"] = {
-						[8122] = true,
-					},
-				},
 				["Army of the Dead"] = {
 					["enabled"] = true,
 					["class"] = "DEATHKNIGHT",
@@ -7054,20 +9047,20 @@ NameplateCooldownsAceDB = {
 						[42650] = true,
 					},
 				},
-				["Zen Meditation"] = {
+				["Incarnation: Chosen of Elune"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 75,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[115176] = true,
+						[102560] = true,
 					},
 				},
-				["Axe Toss"] = {
+				["Anti-Magic Shell"] = {
 					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 30,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 40,
 					["spellIDs"] = {
-						[89766] = true,
+						[48707] = true,
 					},
 				},
 				["Muzzle"] = {
@@ -7086,12 +9079,12 @@ NameplateCooldownsAceDB = {
 						[188501] = true,
 					},
 				},
-				["Reverse Magic"] = {
+				["Dampen Harm"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 60,
+					["class"] = "MONK",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[205604] = true,
+						[122278] = true,
 					},
 				},
 				["Warbreaker"] = {
@@ -7110,12 +9103,12 @@ NameplateCooldownsAceDB = {
 						[152173] = true,
 					},
 				},
-				["Bestial Wrath"] = {
+				["Flare"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
-					["cooldown"] = 76.5,
+					["cooldown"] = 20,
 					["spellIDs"] = {
-						[19574] = true,
+						[1543] = true,
 					},
 				},
 				["Overrun"] = {
@@ -7134,36 +9127,36 @@ NameplateCooldownsAceDB = {
 						[283167] = true,
 					},
 				},
-				["Anti-Magic Shell"] = {
+				["Shadowy Duel"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 40,
+					["class"] = "ROGUE",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[48707] = true,
+						[207736] = true,
 					},
 				},
-				["Blink"] = {
+				["Nether Ward"] = {
 					["enabled"] = true,
-					["class"] = "MAGE",
-					["cooldown"] = 15,
-					["spellIDs"] = {
-						[1953] = true,
-					},
-				},
-				["Disarm"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
+					["class"] = "WARLOCK",
 					["cooldown"] = 45,
 					["spellIDs"] = {
-						[236077] = true,
+						[212295] = true,
 					},
 				},
-				["Pummel"] = {
+				["Diffuse Magic"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 15,
+					["class"] = "MONK",
+					["cooldown"] = 90,
 					["spellIDs"] = {
-						[6552] = true,
+						[122783] = true,
+					},
+				},
+				["Void Shift"] = {
+					["enabled"] = true,
+					["class"] = "PRIEST",
+					["cooldown"] = 300,
+					["spellIDs"] = {
+						[108968] = true,
 					},
 				},
 				["Psychic Horror"] = {
@@ -7174,12 +9167,12 @@ NameplateCooldownsAceDB = {
 						[64044] = true,
 					},
 				},
-				["Die by the Sword"] = {
+				["Avenging Crusader"] = {
 					["enabled"] = true,
-					["class"] = "WARRIOR",
+					["class"] = "PALADIN",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[118038] = true,
+						[216331] = true,
 					},
 				},
 				["Freezing Trap"] = {
@@ -7190,12 +9183,12 @@ NameplateCooldownsAceDB = {
 						[187650] = true,
 					},
 				},
-				["Ethereal Form"] = {
+				["Stampede"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 45,
+					["class"] = "HUNTER",
+					["cooldown"] = 120,
 					["spellIDs"] = {
-						[210918] = true,
+						[201430] = true,
 					},
 				},
 				["Shield Wall"] = {
@@ -7214,12 +9207,12 @@ NameplateCooldownsAceDB = {
 						[7744] = true,
 					},
 				},
-				["Flare"] = {
+				["Bestial Wrath"] = {
 					["enabled"] = true,
 					["class"] = "HUNTER",
-					["cooldown"] = 20,
+					["cooldown"] = 76.5,
 					["spellIDs"] = {
-						[1543] = true,
+						[19574] = true,
 					},
 				},
 				["Casting Circle"] = {
@@ -7230,20 +9223,20 @@ NameplateCooldownsAceDB = {
 						[221703] = true,
 					},
 				},
-				["Diffuse Magic"] = {
+				["Disarm"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 90,
+					["class"] = "WARRIOR",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[122783] = true,
+						[236077] = true,
 					},
 				},
-				["Stampede"] = {
+				["Ethereal Form"] = {
 					["enabled"] = true,
-					["class"] = "HUNTER",
-					["cooldown"] = 120,
+					["class"] = "SHAMAN",
+					["cooldown"] = 45,
 					["spellIDs"] = {
-						[201430] = true,
+						[210918] = true,
 					},
 				},
 				["Master's Call"] = {
@@ -7270,12 +9263,12 @@ NameplateCooldownsAceDB = {
 						[6789] = true,
 					},
 				},
-				["Invoke Xuen, the White Tiger"] = {
+				["Rocket Barrage"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
+					["class"] = "MISC",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[123904] = true,
+						[69041] = true,
 					},
 				},
 				["Cold Snap"] = {
@@ -7286,12 +9279,12 @@ NameplateCooldownsAceDB = {
 						[235219] = true,
 					},
 				},
-				["Incarnation: Guardian of Ursoc"] = {
+				["Netherwalk"] = {
 					["enabled"] = true,
-					["class"] = "DRUID",
-					["cooldown"] = 126,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[102558] = true,
+						[196555] = true,
 					},
 				},
 				["Demonic Circle: Teleport"] = {
@@ -7478,44 +9471,44 @@ NameplateCooldownsAceDB = {
 						[31661] = true,
 					},
 				},
-				["Netherwalk"] = {
+				["Incarnation: Guardian of Ursoc"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 180,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[196555] = true,
+						[102558] = true,
 					},
 				},
-				["Rocket Barrage"] = {
+				["Invoke Xuen, the White Tiger"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
+					["class"] = "MONK",
 					["cooldown"] = 90,
 					["spellIDs"] = {
-						[69041] = true,
+						[123904] = true,
 					},
 				},
-				["Avenging Crusader"] = {
+				["Die by the Sword"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
+					["class"] = "WARRIOR",
 					["cooldown"] = 120,
 					["spellIDs"] = {
-						[216331] = true,
+						[118038] = true,
 					},
 				},
-				["Void Shift"] = {
+				["Pummel"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 300,
+					["class"] = "WARRIOR",
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[108968] = true,
+						[6552] = true,
 					},
 				},
-				["Greater Fade"] = {
+				["Blink"] = {
 					["enabled"] = true,
-					["class"] = "PRIEST",
-					["cooldown"] = 45,
+					["class"] = "MAGE",
+					["cooldown"] = 15,
 					["spellIDs"] = {
-						[213602] = true,
+						[1953] = true,
 					},
 				},
 				["Crimson Vial"] = {
@@ -7526,12 +9519,12 @@ NameplateCooldownsAceDB = {
 						[185311] = true,
 					},
 				},
-				["Dampen Harm"] = {
+				["Last Stand"] = {
 					["enabled"] = true,
-					["class"] = "MONK",
-					["cooldown"] = 120,
+					["class"] = "WARRIOR",
+					["cooldown"] = 36,
 					["spellIDs"] = {
-						[122278] = true,
+						[12975] = true,
 					},
 				},
 				["Tracker's Net"] = {
@@ -7558,20 +9551,20 @@ NameplateCooldownsAceDB = {
 						[15487] = true,
 					},
 				},
-				["Guardian of the Forgotten Queen"] = {
+				["Zen Meditation"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 180,
+					["class"] = "MONK",
+					["cooldown"] = 75,
 					["spellIDs"] = {
-						[228049] = true,
+						[115176] = true,
 					},
 				},
-				["Capacitor Totem"] = {
+				["Touch of Karma"] = {
 					["enabled"] = true,
-					["class"] = "SHAMAN",
-					["cooldown"] = 59,
+					["class"] = "MONK",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[192058] = true,
+						[122470] = true,
 					},
 				},
 				["Incapacitating Roar"] = {
@@ -7582,20 +9575,20 @@ NameplateCooldownsAceDB = {
 						[99] = true,
 					},
 				},
-				["Shadowy Duel"] = {
+				["Shadow Dance"] = {
 					["enabled"] = true,
 					["class"] = "ROGUE",
-					["cooldown"] = 120,
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[207736] = true,
+						[185313] = true,
 					},
 				},
-				["Sigil of Misery"] = {
+				["Harpoon"] = {
 					["enabled"] = true,
-					["class"] = "DEMONHUNTER",
-					["cooldown"] = 45,
+					["class"] = "HUNTER",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[207684] = true,
+						[190925] = true,
 					},
 				},
 				["Shambling Rush"] = {
@@ -7614,12 +9607,12 @@ NameplateCooldownsAceDB = {
 						[233759] = true,
 					},
 				},
-				["Blessing of Sacrifice"] = {
+				["Sharpen Blade"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 72,
+					["class"] = "WARRIOR",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[6940] = true,
+						[198817] = true,
 					},
 				},
 				["Combustion"] = {
@@ -7638,52 +9631,12 @@ NameplateCooldownsAceDB = {
 						[20484] = true,
 					},
 				},
-				["Shadowmeld"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
-					["spellIDs"] = {
-						[58984] = true,
-					},
-				},
-				["Avenging Wrath"] = {
+				["Blessing of Sacrifice"] = {
 					["enabled"] = true,
 					["class"] = "PALADIN",
-					["cooldown"] = 120,
+					["cooldown"] = 72,
 					["spellIDs"] = {
-						[31884] = true,
-					},
-				},
-				["Sharpen Blade"] = {
-					["enabled"] = true,
-					["class"] = "WARRIOR",
-					["cooldown"] = 25,
-					["spellIDs"] = {
-						[198817] = true,
-					},
-				},
-				["Call Felhunter"] = {
-					["enabled"] = true,
-					["class"] = "WARLOCK",
-					["cooldown"] = 24,
-					["spellIDs"] = {
-						[212619] = true,
-					},
-				},
-				["Escape Artist"] = {
-					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 60,
-					["spellIDs"] = {
-						[20589] = true,
-					},
-				},
-				["Adrenaline Rush"] = {
-					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 180,
-					["spellIDs"] = {
-						[13750] = true,
+						[6940] = true,
 					},
 				},
 				["Paralysis"] = {
@@ -7692,6 +9645,46 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["spellIDs"] = {
 						[115078] = true,
+					},
+				},
+				["Recklessness"] = {
+					["enabled"] = true,
+					["class"] = "WARRIOR",
+					["cooldown"] = 90,
+					["spellIDs"] = {
+						[1719] = true,
+					},
+				},
+				["Asphyxiate"] = {
+					["enabled"] = true,
+					["class"] = "DEATHKNIGHT",
+					["cooldown"] = 45,
+					["spellIDs"] = {
+						[108194] = true,
+					},
+				},
+				["Metamorphosis"] = {
+					["enabled"] = true,
+					["class"] = "DEMONHUNTER",
+					["cooldown"] = 75,
+					["spellIDs"] = {
+						[187827] = true,
+					},
+				},
+				["Axe Toss"] = {
+					["enabled"] = true,
+					["class"] = "WARLOCK",
+					["cooldown"] = 30,
+					["spellIDs"] = {
+						[89766] = true,
+					},
+				},
+				["Rebuke"] = {
+					["enabled"] = true,
+					["class"] = "PALADIN",
+					["cooldown"] = 15,
+					["spellIDs"] = {
+						[96231] = true,
 					},
 				},
 				["Ardent Defender"] = {
@@ -7726,12 +9719,12 @@ NameplateCooldownsAceDB = {
 						[30283] = true,
 					},
 				},
-				["Cheat Death"] = {
+				["Transcendence: Transfer"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 360,
+					["class"] = "MONK",
+					["cooldown"] = 25,
 					["spellIDs"] = {
-						[31230] = true,
+						[119996] = true,
 					},
 				},
 				["Tranquility"] = {
@@ -7750,12 +9743,12 @@ NameplateCooldownsAceDB = {
 						[344867] = true,
 					},
 				},
-				["Divine Shield"] = {
+				["Adrenaline Rush"] = {
 					["enabled"] = true,
-					["class"] = "PALADIN",
-					["cooldown"] = 120,
+					["class"] = "ROGUE",
+					["cooldown"] = 180,
 					["spellIDs"] = {
-						[642] = true,
+						[13750] = true,
 					},
 				},
 				["Touch of Death"] = {
@@ -7790,12 +9783,12 @@ NameplateCooldownsAceDB = {
 						[202138] = true,
 					},
 				},
-				["Plunder Armor"] = {
+				["Spiritwalker's Grace"] = {
 					["enabled"] = true,
-					["class"] = "ROGUE",
-					["cooldown"] = 120,
+					["class"] = "SHAMAN",
+					["cooldown"] = 60,
 					["spellIDs"] = {
-						[198529] = true,
+						[79206] = true,
 					},
 				},
 				["Temporal Shield"] = {
@@ -7822,12 +9815,12 @@ NameplateCooldownsAceDB = {
 						[102793] = true,
 					},
 				},
-				["Gladiator's Medallion"] = {
+				["Thunderstorm"] = {
 					["enabled"] = true,
-					["class"] = "MISC",
-					["cooldown"] = 120,
+					["class"] = "SHAMAN",
+					["cooldown"] = 30,
 					["spellIDs"] = {
-						[336126] = true,
+						[51490] = true,
 					},
 				},
 				["Summon Infernal"] = {
@@ -7846,12 +9839,12 @@ NameplateCooldownsAceDB = {
 						[781] = true,
 					},
 				},
-				["Dancing Rune Weapon"] = {
+				["Incarnation: King of the Jungle"] = {
 					["enabled"] = true,
-					["class"] = "DEATHKNIGHT",
-					["cooldown"] = 60,
+					["class"] = "DRUID",
+					["cooldown"] = 126,
 					["spellIDs"] = {
-						[49028] = true,
+						[102543] = true,
 					},
 				},
 				["Gift of the Naaru"] = {
@@ -7967,7 +9960,6 @@ NameplateCooldownsAceDB = {
 					},
 				},
 			},
-			["DBVersion"] = 10,
 			["MigrationVersion"] = 5,
 			["TimerTextSize"] = 13,
 		},
