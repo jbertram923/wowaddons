@@ -1,6 +1,6 @@
 
 MapCoords2 = {
-	["show decimals"] = false,
+	["show decimals"] = true,
 	["portrait party4"] = true,
 	["portrait party3"] = true,
 	["worldmap player"] = true,
@@ -8,5 +8,5 @@ MapCoords2 = {
 	["portrait party2"] = true,
 	["portrait player"] = true,
 	["worldmap cursor"] = true,
-	["minimap"] = false,
+	["minimap"] = true,
 }

@@ -1,14 +1,15 @@
 
 ATTDB = {
 	["glow"] = true,
-	["scale"] = 1.1,
-	["iconOffsetY"] = 2,
 	["attach"] = 0,
+	["iconOffsetY"] = 2,
+	["scale"] = 1.1,
 	["showSelf"] = false,
-	["arena"] = true,
 	["Trinkets"] = {
 	},
+	["offsetY"] = 0,
 	["outside"] = true,
+	["version"] = 9.4,
 	["abilities"] = {
 		["HUNTER"] = {
 			["254"] = {
@@ -742,9 +743,8 @@ ATTDB = {
 		},
 	},
 	["offsetX"] = 0,
-	["version"] = 9.4,
 	["iconOffsetX"] = 5,
-	["offsetY"] = 0,
+	["arena"] = true,
 	["positions"] = {
 		{
 			["y"] = -102.043969484821,

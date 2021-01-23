@@ -3,12 +3,12 @@ ATTDB = {
 	["glow"] = true,
 	["classSelected"] = "WARRIOR",
 	["iconOffsetY"] = 2,
-	["scale"] = 1.1,
+	["attach"] = 0,
 	["showSelf"] = false,
-	["Trinkets"] = {
-	},
 	["offsetY"] = 0,
+	["arena"] = true,
 	["outside"] = true,
+	["offsetX"] = 0,
 	["version"] = 9.4,
 	["abilities"] = {
 		["HUNTER"] = {
@@ -742,9 +742,9 @@ ATTDB = {
 			},
 		},
 	},
-	["offsetX"] = 0,
 	["iconOffsetX"] = 5,
-	["arena"] = true,
+	["Trinkets"] = {
+	},
 	["positions"] = {
 		{
 			["y"] = -102.043969484821,
@@ -767,5 +767,5 @@ ATTDB = {
 			["x"] = 71.4669233885138,
 		}, -- [5]
 	},
-	["attach"] = 0,
+	["scale"] = 1.1,
 }

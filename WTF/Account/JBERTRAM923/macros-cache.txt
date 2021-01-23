@@ -17,3 +17,8 @@ END
 VER 3 0000000000000009 "Sound" "136211"
 /run SetCVar("Sound_EnableAllSound",GetCVar("Sound_EnableAllSound")=="0" and 1 or 0)
 END
+VER 3 0000000000000014 "WF" "136114"
+#showtooltip Windfury Totem
+/use Sinful Aspirant's Badge of Ferocity
+/cast Windfury Totem
+END

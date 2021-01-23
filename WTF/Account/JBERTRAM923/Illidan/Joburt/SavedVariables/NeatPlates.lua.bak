@@ -3,7 +3,7 @@ NeatPlatesOptions = {
 	["SecondSpecProfile"] = "Default",
 	["EnemyAutomation"] = {
 	},
-	["ActiveTheme"] = "Neon",
+	["ActiveTheme"] = "Blizzard",
 	["NameplateClickableHeight"] = 1,
 	["OverrideOutline"] = 1,
 	["BlizzardWidgets"] = true,

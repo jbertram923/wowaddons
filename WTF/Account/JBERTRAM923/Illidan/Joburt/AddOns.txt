@@ -19,3 +19,5 @@ Kui_Media: disabled
 Kui_Nameplates_Core_Config: disabled
 Kui_Nameplates: disabled
 Kui_Nameplates_Core: disabled
+NeatPlates: disabled
+SexyMap: disabled
