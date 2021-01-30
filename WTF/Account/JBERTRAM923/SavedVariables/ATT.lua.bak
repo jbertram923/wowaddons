@@ -1,9 +1,9 @@
 
 ATTDB = {
 	["glow"] = true,
-	["attach"] = 0,
-	["iconOffsetY"] = 2,
 	["scale"] = 1.1,
+	["iconOffsetY"] = 2,
+	["attach"] = 0,
 	["showSelf"] = false,
 	["Trinkets"] = {
 	},

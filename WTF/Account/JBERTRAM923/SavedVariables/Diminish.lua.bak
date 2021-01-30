@@ -1,13 +1,23 @@
 
 DiminishDB = {
 	["profileKeys"] = {
-		["Joburt-Illidan"] = "Default",
-		["Goburt-Illidan"] = "Default",
 		["Ioku-Illidan"] = "Default",
+		["Goburt-Illidan"] = "Default",
+		["Joburt-Illidan"] = "Default",
+		["Ercarde-Illidan"] = "Default",
+		["Eminattius-Illidan"] = "Default",
+		["Rajashari-Ysondre"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["categoryTextures"] = {
+			},
+			["timerStartAuraEnd"] = false,
+			["border"] = {
+				["layer"] = "BORDER",
+				["edgeSize"] = 2.5,
+				["name"] = "Default",
+				["edgeFile"] = "Interface\\BUTTONS\\UI-Quickslot-Depress",
 			},
 			["unitFrames"] = {
 				["nameplate"] = {
@@ -153,16 +163,9 @@ DiminishDB = {
 					["isEnabledForZone"] = false,
 				},
 			},
-			["border"] = {
-				["layer"] = "BORDER",
-				["edgeSize"] = 2.5,
-				["name"] = "Default",
-				["edgeFile"] = "Interface\\BUTTONS\\UI-Quickslot-Depress",
-			},
-			["timerStartAuraEnd"] = false,
-			["showCategoryText"] = true,
-			["trackNPCs"] = true,
 			["version"] = "1.4",
+			["trackNPCs"] = true,
+			["showCategoryText"] = true,
 			["timerTextOutline"] = "NONE",
 			["colorBlind"] = false,
 			["timerSwipe"] = true,

@@ -1,9 +1,12 @@
 
 DiminishDB = {
 	["profileKeys"] = {
-		["Joburt-Illidan"] = "Default",
-		["Goburt-Illidan"] = "Default",
 		["Ioku-Illidan"] = "Default",
+		["Goburt-Illidan"] = "Default",
+		["Ercarde-Illidan"] = "Default",
+		["Joburt-Illidan"] = "Default",
+		["Eminattius-Illidan"] = "Default",
+		["Rajashari-Ysondre"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -16,6 +19,14 @@ DiminishDB = {
 				["name"] = "Default",
 				["edgeFile"] = "Interface\\BUTTONS\\UI-Quickslot-Depress",
 			},
+			["timerStartAuraEnd"] = false,
+			["timerText"] = true,
+			["timerSwipe"] = true,
+			["version"] = "1.4",
+			["timerTextOutline"] = "NONE",
+			["colorBlind"] = false,
+			["trackNPCs"] = true,
+			["showCategoryText"] = true,
 			["unitFrames"] = {
 				["nameplate"] = {
 					["enabled"] = false,
@@ -160,14 +171,6 @@ DiminishDB = {
 					["isEnabledForZone"] = false,
 				},
 			},
-			["timerText"] = true,
-			["timerSwipe"] = true,
-			["showCategoryText"] = true,
-			["timerTextOutline"] = "NONE",
-			["colorBlind"] = false,
-			["trackNPCs"] = true,
-			["version"] = "1.4",
-			["timerStartAuraEnd"] = false,
 		},
 	},
 }

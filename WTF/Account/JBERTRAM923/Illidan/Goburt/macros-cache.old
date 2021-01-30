@@ -1,0 +1,14 @@
+VER 3 0100000000000001 "SD" "236279"
+#showtooltip Shadow Dance
+/cast Symbols of Death
+/cast Shadow Dance
+END
+VER 3 0100000000000003 "Sepsis" "3636848"
+#showtooltip Sepsis
+/use Sinful Aspirant's Badge of Ferocity
+/cast Sepsis
+END
+VER 3 0100000000000002 "Stealth" "132320"
+#showtooltip Stealth
+/cast !stealth
+END

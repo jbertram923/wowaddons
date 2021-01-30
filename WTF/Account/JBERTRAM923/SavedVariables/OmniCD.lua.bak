@@ -6,10 +6,13 @@ OmniCDDB = {
 		["Eyuko - Illidan"] = "Default",
 		["Joburt - Illidan"] = "Default",
 		["Nikkhalkaj - Illidan"] = "Default",
+		["Ercarde - Illidan"] = "Default",
+		["Rajashari - Ysondre"] = "Default",
+		["Ioku - Illidan"] = "Default",
 		["Atuljorkho - Illidan"] = "Default",
 		["Jabzulash - Illidan"] = "Default",
 		["Berch - Illidan"] = "Default",
-		["Ioku - Illidan"] = "Default",
+		["Eminattius - Illidan"] = "Default",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {

@@ -6,10 +6,13 @@ sArena3DB = {
 		["Eyuko - Illidan"] = "Default",
 		["Joburt - Illidan"] = "Default",
 		["Nikkhalkaj - Illidan"] = "Default",
+		["Ercarde - Illidan"] = "Default",
+		["Rajashari - Ysondre"] = "Default",
+		["Ioku - Illidan"] = "Default",
 		["Atuljorkho - Illidan"] = "Default",
 		["Jabzulash - Illidan"] = "Default",
 		["Berch - Illidan"] = "Default",
-		["Ioku - Illidan"] = "Default",
+		["Eminattius - Illidan"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -20,9 +23,9 @@ sArena3DB = {
 					["specIcon"] = {
 						["posX"] = 50,
 					},
+					["spacing"] = 37,
 					["classIconFontSize"] = 13,
 					["posX"] = 269,
-					["spacing"] = 37,
 				},
 			},
 		},

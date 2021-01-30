@@ -3,7 +3,7 @@ ATTDB = {
 	["glow"] = true,
 	["classSelected"] = "WARRIOR",
 	["iconOffsetY"] = 2,
-	["attach"] = 0,
+	["scale"] = 1.1,
 	["showSelf"] = false,
 	["offsetY"] = 0,
 	["arena"] = true,
@@ -767,5 +767,5 @@ ATTDB = {
 			["x"] = 71.4669233885138,
 		}, -- [5]
 	},
-	["scale"] = 1.1,
+	["attach"] = 0,
 }
