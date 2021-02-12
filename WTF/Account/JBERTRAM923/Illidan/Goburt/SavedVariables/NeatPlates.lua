@@ -3,7 +3,7 @@ NeatPlatesOptions = {
 	["BlizzardScaling"] = false,
 	["EnemyAutomation"] = {
 	},
-	["ActiveTheme"] = "Neon",
+	["ActiveTheme"] = "Quatre",
 	["NameplateClickableHeight"] = 1,
 	["OverrideOutline"] = 1,
 	["BlizzardWidgets"] = true,

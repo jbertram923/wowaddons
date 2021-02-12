@@ -18,3 +18,7 @@ Details_Vanguard: disabled
 DraenorTreasures: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
+SexyMap: disabled
+Raven: disabled
+Raven_Options: disabled
+NeatPlates: disabled

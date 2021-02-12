@@ -2,11 +2,13 @@
 GladiatorlosSADB = {
 	["profileKeys"] = {
 		["Goburt - Illidan"] = "Default",
-		["Ioku - Illidan"] = "Default",
-		["Eyuko - Illidan"] = "Default",
+		["Rajashari - Ysondre"] = "Default",
 		["Joburt - Illidan"] = "Default",
 		["Ercarde - Illidan"] = "Default",
-		["Rajashari - Ysondre"] = "Default",
+		["Jobor - Illidan"] = "Default",
+		["Jobir - Illidan"] = "Default",
+		["Ioku - Illidan"] = "Default",
+		["Eyuko - Illidan"] = "Default",
 		["Berch - Illidan"] = "Default",
 		["Eminattius - Illidan"] = "Default",
 	},

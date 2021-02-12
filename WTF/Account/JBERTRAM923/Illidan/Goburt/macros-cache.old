@@ -1,3 +1,23 @@
+VER 3 0100000000000004 "Blind" "136175"
+#showtooltip Blind
+/cast [mod:alt, @focus] Blind; Blind
+END
+VER 3 0100000000000005 "CS" "132092"
+#showtooltip Cheap Shot
+/cast [mod:alt, @focus] Cheap Shot; Cheap Shot
+END
+VER 3 0100000000000009 "Duel" "1020341"
+#showtooltip Shadowy Duel
+/cast [mod:alt, @focus] Shadowy Duel; Shadowy Duel
+END
+VER 3 0100000000000007 "Kick" "132219"
+#showtooltip Kick
+/cast [mod:alt, @focus] Kick; Kick
+END
+VER 3 0100000000000008 "KS" "132298"
+#showtooltip Kidney Shot
+/cast [mod:alt, @focus] Kidney Shot; Kidney Shot
+END
 VER 3 0100000000000001 "SD" "236279"
 #showtooltip Shadow Dance
 /cast Symbols of Death
@@ -7,6 +27,10 @@ VER 3 0100000000000003 "Sepsis" "3636848"
 #showtooltip Sepsis
 /use Sinful Aspirant's Badge of Ferocity
 /cast Sepsis
+END
+VER 3 0100000000000006 "Shadowstep" "132303"
+#showtooltip Shadowstep
+/cast [mod:alt, @focus] Shadowstep; Shadowstep
 END
 VER 3 0100000000000002 "Stealth" "132320"
 #showtooltip Stealth

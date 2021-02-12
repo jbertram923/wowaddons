@@ -1,32 +1,51 @@
 VER 3 0100000000000004 "Blind" "136175"
 #showtooltip Blind
-/cast [mod:alt][target=focus] Blind
-/cast Blind
+/cast [mod:alt, @focus] Blind; Blind
+END
+VER 3 010000000000000A "BlindMO" "136175"
+#showtooltip
+/cast [@mouseover, exists] Blind; Blind
 END
 VER 3 0100000000000005 "CS" "132092"
 #showtooltip Cheap Shot
-/cast [mod:alt][target=focus] Cheap Shot
-/cast Cheap Shot
+/cast [mod:alt, @focus] Cheap Shot; Cheap Shot
+END
+VER 3 010000000000000F "CS MO" "132092"
+#showtooltip
+/cast [@mouseover, exists] Cheap Shot; Cheap Shot
 END
 VER 3 0100000000000009 "Duel" "1020341"
 #showtooltip Shadowy Duel
-/cast [mod:alt][target=focus] Shadowy Duel
-/cast Shadowy Duel
+/cast [mod:alt, @focus] Shadowy Duel; Shadowy Duel
 END
 VER 3 0100000000000007 "Kick" "132219"
 #showtooltip Kick
-/cast [mod:alt][target=focus] Kick
-/cast Kick
+/cast [mod:alt, @focus] Kick; Kick
+END
+VER 3 010000000000000D "Kick MO" "132219"
+#showtooltip
+/cast [@mouseover, exists] Kick; Kick
 END
 VER 3 0100000000000008 "KS" "132298"
 #showtooltip Kidney Shot
-/cast [mod:alt][target=focus] Kidney Shot
-/cast Kidney Shot
+/cast [mod:alt, @focus] Kidney Shot; Kidney Shot
+END
+VER 3 010000000000000B "KS MO" "132298"
+#showtooltip
+/cast [@mouseover, exists] Kidney Shot; Kidney Shot
+END
+VER 3 0100000000000010 "Sap MO" "132310"
+#showtooltip
+/cast [@mouseover, exists] Sap; Sap
 END
 VER 3 0100000000000001 "SD" "236279"
 #showtooltip Shadow Dance
 /cast Symbols of Death
 /cast Shadow Dance
+END
+VER 3 010000000000000E "SD MO" "1020341"
+#showtooltip
+/cast [@mouseover, exists] Shadowy Duel; Shadowy Duel
 END
 VER 3 0100000000000003 "Sepsis" "3636848"
 #showtooltip Sepsis
@@ -35,8 +54,10 @@ VER 3 0100000000000003 "Sepsis" "3636848"
 END
 VER 3 0100000000000006 "Shadowstep" "132303"
 #showtooltip Shadowstep
-/cast [mod:alt][target=focus] Shadowstep
-/cast Shadowstep
+/cast [mod:alt, @focus] Shadowstep; Shadowstep
+END
+VER 3 010000000000000C "ST MO" "132303"
+/cast [@mouseover, exists] Shadowstep; Shadowstep
 END
 VER 3 0100000000000002 "Stealth" "132320"
 #showtooltip Stealth

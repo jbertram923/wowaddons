@@ -1,0 +1,6 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Raven: disabled
+Raven_Options: disabled
+SexyMap: disabled
+NeatPlates: disabled

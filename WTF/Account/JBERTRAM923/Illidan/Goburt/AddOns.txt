@@ -1,6 +1,6 @@
 Details: enabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
-NeatPlates: disabled
-SexyMap: disabled
+NeatPlates: enabled
+SexyMap: enabled
 Raven: disabled

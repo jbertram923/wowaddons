@@ -1,4 +1,4 @@
-VER 3 0100000000000001 "HEAL" "1360980"
+VER 3 0100000000000002 "TL" "651727"
 #showtooltip
-/castsequence Expel Harm, Vivify Reset=15
+/cast [@player] Tiger's Lust
 END

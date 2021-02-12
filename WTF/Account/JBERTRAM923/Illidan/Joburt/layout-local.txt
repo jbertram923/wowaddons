@@ -13,6 +13,13 @@ X: 101
 Y: 54
 W: 15
 H: 15
+Frame: CastingBarFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 0
+Y: 191
+W: 195
+H: 13
 Frame: ATTAnchor1
 FrameLevel: 2
 Anchor: TOPLEFT
@@ -41,10 +48,3 @@ X: 163
 Y: 203
 W: 15
 H: 15
-Frame: CastingBarFrame
-FrameLevel: 1
-Anchor: BOTTOM
-X: 0
-Y: 191
-W: 195
-H: 13

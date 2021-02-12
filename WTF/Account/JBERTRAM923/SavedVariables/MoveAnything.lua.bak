@@ -32,7 +32,7 @@ MADB = {
 						"UIParent", -- [2]
 						"BOTTOM", -- [3]
 						0, -- [4]
-						160, -- [5]
+						195, -- [5]
 					},
 					["name"] = "CastingBarFrame",
 					["pos"] = {
@@ -46,8 +46,8 @@ MADB = {
 			},
 		},
 	},
-	["closeGUIOnEscape"] = false,
-	["playSound"] = false,
-	["noBags"] = false,
 	["frameListRows"] = 18,
+	["noBags"] = false,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 }

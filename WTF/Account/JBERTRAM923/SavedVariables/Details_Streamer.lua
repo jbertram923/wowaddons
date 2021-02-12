@@ -3,10 +3,12 @@ Details_StreamerDB = {
 	["characters"] = {
 		["Goburt - Illidan"] = "Pakurahnho - Illidan",
 		["Pakurahnho - Illidan"] = "Pakurahnho - Illidan",
-		["Ercarde - Illidan"] = "Pakurahnho - Illidan",
+		["Jobir - Illidan"] = "Pakurahnho - Illidan",
+		["Nikkhalkaj - Illidan"] = "Pakurahnho - Illidan",
+		["Jobor - Illidan"] = "Pakurahnho - Illidan",
 		["Atuljorkho - Illidan"] = "Pakurahnho - Illidan",
 		["Jabzulash - Illidan"] = "Pakurahnho - Illidan",
-		["Nikkhalkaj - Illidan"] = "Pakurahnho - Illidan",
+		["Ercarde - Illidan"] = "Pakurahnho - Illidan",
 		["Eminattius - Illidan"] = "Pakurahnho - Illidan",
 	},
 	["profiles"] = {
@@ -29,7 +31,7 @@ Details_StreamerDB = {
 				500.0000305175781, -- [2]
 			},
 			["minimap"] = {
-				["minimapPos"] = 160,
+				["minimapPos"] = 152.1758880406245,
 				["radius"] = 160,
 				["hide"] = false,
 			},
@@ -37,7 +39,12 @@ Details_StreamerDB = {
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["enabled"] = false,
 			["arrow_size"] = 10,
 			["per_second"] = {
@@ -58,19 +65,14 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 10,
 			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["y"] = 4.57763671875e-05,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,
