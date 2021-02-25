@@ -23,6 +23,20 @@ SexyMap2DB = {
 			["backgroundColor"] = {
 			},
 		},
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
+			},
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -40,20 +54,6 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["lockDurability"] = false,
-			["lockObjectives"] = false,
-			["moveDurability"] = false,
-			["lockCaptureBar"] = false,
-			["moveVehicle"] = false,
-			["lockVehicle"] = false,
-			["moverPositions"] = {
-			},
-			["moveBuffs"] = false,
-			["lockBuffs"] = false,
-			["moveCaptureBar"] = false,
-			["moveObjectives"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -176,23 +176,19 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["SexyMapZoneTextButton"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
 			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -283,19 +279,23 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["lockDurability"] = false,
-			["lockObjectives"] = false,
-			["moveDurability"] = false,
-			["lockCaptureBar"] = false,
-			["moveVehicle"] = false,
-			["lockVehicle"] = false,
-			["moverPositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["moveBuffs"] = false,
-			["lockBuffs"] = false,
-			["moveCaptureBar"] = false,
-			["moveObjectives"] = false,
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 	},
 	["Goburt-Illidan"] = {
@@ -329,30 +329,19 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["SexyMapZoneTextButton"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
 			},
-			["dragPositions"] = {
-				["LibDBIcon10_Details"] = 169.339571849918,
-				["GarrisonLandingPageMinimapButton"] = 215.9524358658333,
-				["QueueStatusMinimapButton"] = 200.9426485682283,
-				["LibDBIcon10_WeakAuras"] = -65.92464428065622,
-				["MiniMapTracking"] = 152.8502635635643,
-				["LibDBIcon10_Bartender4"] = 245.0188426077816,
-				["LibDBIcon10_DetailsStreamer"] = 139.5738782998471,
-			},
-			["controlVisibility"] = true,
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -445,19 +434,30 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["lockDurability"] = false,
-			["lockObjectives"] = false,
-			["moveDurability"] = false,
-			["lockCaptureBar"] = false,
-			["moveVehicle"] = false,
-			["lockVehicle"] = false,
-			["moverPositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["moveBuffs"] = false,
-			["lockBuffs"] = false,
-			["moveCaptureBar"] = false,
-			["moveObjectives"] = false,
+			["dragPositions"] = {
+				["LibDBIcon10_Details"] = 169.339571849918,
+				["LibDBIcon10_WeakAuras"] = -65.92464428065622,
+				["LibDBIcon10_DetailsStreamer"] = 139.5738782998471,
+				["GarrisonLandingPageMinimapButton"] = 215.9524358658333,
+				["MiniMapTracking"] = 152.8502635635643,
+				["LibDBIcon10_Bartender4"] = 245.0188426077816,
+				["QueueStatusMinimapButton"] = 200.9426485682283,
+			},
+			["controlVisibility"] = true,
 		},
 	},
 	["Rajashari-Ysondre"] = {
@@ -483,20 +483,6 @@ SexyMap2DB = {
 			["backgroundColor"] = {
 			},
 		},
-		["movers"] = {
-			["lockDurability"] = false,
-			["lockObjectives"] = false,
-			["moveDurability"] = false,
-			["lockCaptureBar"] = false,
-			["moveVehicle"] = false,
-			["lockVehicle"] = false,
-			["moverPositions"] = {
-			},
-			["moveBuffs"] = false,
-			["lockBuffs"] = false,
-			["moveCaptureBar"] = false,
-			["moveObjectives"] = false,
-		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -514,6 +500,20 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
+		},
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
+			},
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -608,6 +608,157 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
+	},
+	["Irtzertbirt-Illidan"] = {
+		["core"] = {
+			["clamp"] = true,
+			["lock"] = false,
+			["rightClickToConfig"] = true,
+			["autoZoom"] = 5,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["northTag"] = true,
+		},
+		["coordinates"] = {
+			["enabled"] = true,
+			["fontColor"] = {
+			},
+			["xOffset"] = 0,
+			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
+		},
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
+		},
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
+			},
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
+		},
+		["clock"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["borders"] = {
+			["applyPreset"] = false,
+			["borders"] = {
+				{
+					["name"] = "Rune 1",
+					["r"] = 0.3098039215686275,
+					["scale"] = 1.4,
+					["rotSpeed"] = -30,
+					["g"] = 0.4784313725490196,
+					["texture"] = 165630,
+				}, -- [1]
+				{
+					["a"] = 0.3799999952316284,
+					["rotSpeed"] = 60,
+					["r"] = 0.196078431372549,
+					["scale"] = 2.1,
+					["name"] = "Rune 2",
+					["g"] = 0.2901960784313725,
+					["texture"] = 165638,
+				}, -- [2]
+				{
+					["a"] = 0.3,
+					["name"] = "Fade",
+					["r"] = 0,
+					["scale"] = 1.6,
+					["g"] = 0.2235294117647059,
+					["texture"] = 167062,
+				}, -- [3]
+			},
+			["backdrop"] = {
+				["show"] = false,
+				["textureColor"] = {
+				},
+				["settings"] = {
+					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
+					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
+					["tile"] = false,
+					["edgeSize"] = 16,
+					["insets"] = {
+						["top"] = 4,
+						["right"] = 4,
+						["left"] = 4,
+						["bottom"] = 4,
+					},
+				},
+				["borderColor"] = {
+				},
+				["scale"] = 1,
+			},
+			["hideBlizzard"] = true,
+		},
+		["zonetext"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
+			},
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
+		},
+	},
+	["presets"] = {
 	},
 	["Ioku-Illidan"] = {
 		["core"] = {
@@ -636,155 +787,6 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["movers"] = {
-			["lockDurability"] = false,
-			["lockObjectives"] = false,
-			["moveDurability"] = false,
-			["lockCaptureBar"] = false,
-			["moveVehicle"] = false,
-			["lockVehicle"] = false,
-			["moverPositions"] = {
-			},
-			["moveBuffs"] = false,
-			["lockBuffs"] = false,
-			["moveCaptureBar"] = false,
-			["moveObjectives"] = false,
-		},
-		["clock"] = {
-			["bgColor"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
-			["font"] = "Friz Quadrata TT",
-			["fontColor"] = {
-			},
-			["borderColor"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-		},
-		["borders"] = {
-			["applyPreset"] = false,
-			["borders"] = {
-				{
-					["name"] = "Rune 1",
-					["r"] = 0.3098039215686275,
-					["scale"] = 1.4,
-					["rotSpeed"] = -30,
-					["g"] = 0.4784313725490196,
-					["texture"] = 165630,
-				}, -- [1]
-				{
-					["a"] = 0.3799999952316284,
-					["rotSpeed"] = 60,
-					["r"] = 0.196078431372549,
-					["scale"] = 2.1,
-					["name"] = "Rune 2",
-					["g"] = 0.2901960784313725,
-					["texture"] = 165638,
-				}, -- [2]
-				{
-					["a"] = 0.3,
-					["name"] = "Fade",
-					["r"] = 0,
-					["scale"] = 1.6,
-					["g"] = 0.2235294117647059,
-					["texture"] = 167062,
-				}, -- [3]
-			},
-			["backdrop"] = {
-				["show"] = false,
-				["textureColor"] = {
-				},
-				["settings"] = {
-					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
-					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
-					["tile"] = false,
-					["edgeSize"] = 16,
-					["insets"] = {
-						["top"] = 4,
-						["right"] = 4,
-						["left"] = 4,
-						["bottom"] = 4,
-					},
-				},
-				["borderColor"] = {
-				},
-				["scale"] = 1,
-			},
-			["hideBlizzard"] = true,
-		},
-		["zonetext"] = {
-			["bgColor"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
-			["font"] = "Friz Quadrata TT",
-			["fontColor"] = {
-			},
-			["borderColor"] = {
-				["a"] = 1,
-				["r"] = 0,
-				["g"] = 0,
-				["b"] = 0,
-			},
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["SexyMapZoneTextButton"] = "always",
-				["TimeManagerClockButton"] = "always",
-			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
-		},
-	},
-	["Jobor-Illidan"] = {
-		["core"] = {
-			["clamp"] = true,
-			["lock"] = false,
-			["rightClickToConfig"] = true,
-			["autoZoom"] = 5,
-			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
-			["northTag"] = true,
-		},
-		["coordinates"] = {
-			["enabled"] = true,
-			["fontColor"] = {
-			},
-			["xOffset"] = 0,
-			["updateRate"] = 1,
-			["yOffset"] = 10,
-			["font"] = "Friz Quadrata TT",
-			["borderColor"] = {
-			},
-			["coordPrecision"] = "%d,%d",
-			["backgroundColor"] = {
-			},
-		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
-		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -905,157 +907,6 @@ SexyMap2DB = {
 			["lockBuffs"] = false,
 			["moveCaptureBar"] = false,
 			["moveObjectives"] = false,
-		},
-	},
-	["presets"] = {
-	},
-	["Ercarde-Illidan"] = {
-		["core"] = {
-			["clamp"] = true,
-			["lock"] = false,
-			["northTag"] = true,
-			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
-			["autoZoom"] = 5,
-			["rightClickToConfig"] = true,
-		},
-		["coordinates"] = {
-			["enabled"] = true,
-			["fontColor"] = {
-			},
-			["xOffset"] = 0,
-			["updateRate"] = 1,
-			["yOffset"] = 10,
-			["font"] = "Friz Quadrata TT",
-			["borderColor"] = {
-			},
-			["coordPrecision"] = "%d,%d",
-			["backgroundColor"] = {
-			},
-		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["SexyMapZoneTextButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapWorldMapButton"] = "never",
-			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["lockDurability"] = false,
-			["lockObjectives"] = false,
-			["moveDurability"] = false,
-			["lockCaptureBar"] = false,
-			["moveVehicle"] = false,
-			["lockVehicle"] = false,
-			["moverPositions"] = {
-			},
-			["moveBuffs"] = false,
-			["lockBuffs"] = false,
-			["moveCaptureBar"] = false,
-			["moveObjectives"] = false,
-		},
-		["clock"] = {
-			["bgColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["font"] = "Friz Quadrata TT",
-			["fontColor"] = {
-			},
-			["borderColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-		},
-		["borders"] = {
-			["applyPreset"] = false,
-			["borders"] = {
-				{
-					["name"] = "Rune 1",
-					["r"] = 0.3098039215686275,
-					["scale"] = 1.4,
-					["rotSpeed"] = -30,
-					["g"] = 0.4784313725490196,
-					["texture"] = 165630,
-				}, -- [1]
-				{
-					["a"] = 0.3799999952316284,
-					["rotSpeed"] = 60,
-					["r"] = 0.196078431372549,
-					["scale"] = 2.1,
-					["name"] = "Rune 2",
-					["g"] = 0.2901960784313725,
-					["texture"] = 165638,
-				}, -- [2]
-				{
-					["a"] = 0.3,
-					["name"] = "Fade",
-					["r"] = 0,
-					["scale"] = 1.6,
-					["g"] = 0.2235294117647059,
-					["texture"] = 167062,
-				}, -- [3]
-			},
-			["backdrop"] = {
-				["show"] = false,
-				["textureColor"] = {
-				},
-				["settings"] = {
-					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
-					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
-					["tile"] = false,
-					["edgeSize"] = 16,
-					["insets"] = {
-						["top"] = 4,
-						["right"] = 4,
-						["left"] = 4,
-						["bottom"] = 4,
-					},
-				},
-				["borderColor"] = {
-				},
-				["scale"] = 1,
-			},
-			["hideBlizzard"] = true,
-		},
-		["zonetext"] = {
-			["bgColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["font"] = "Friz Quadrata TT",
-			["fontColor"] = {
-			},
-			["borderColor"] = {
-				["a"] = 1,
-				["b"] = 0,
-				["g"] = 0,
-				["r"] = 0,
-			},
-			["xOffset"] = 0,
-			["yOffset"] = 0,
-		},
-		["ping"] = {
-			["showPing"] = true,
-			["showAt"] = "map",
 		},
 	},
 	["Joburt-Illidan"] = {
@@ -1090,30 +941,19 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["MiniMapWorldMapButton"] = "always",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["SexyMapZoneTextButton"] = "always",
-				["TimeManagerClockButton"] = "hover",
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
 			},
-			["dragPositions"] = {
-				["LibDBIcon10_Details"] = -80.2090116366828,
-				["LibDBIcon10_Raven"] = 266.7198579776826,
-				["MiniMapTracking"] = 236.7578658101021,
-				["LibDBIcon10_WeakAuras"] = 250.6282095221457,
-				["GameTimeFrame"] = 147.3755499521969,
-				["GarrisonLandingPageMinimapButton"] = 217.4226090927349,
-				["LibDBIcon10_Bartender4"] = -64.10553450816914,
-			},
-			["controlVisibility"] = true,
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -1199,6 +1039,315 @@ SexyMap2DB = {
 			["xOffset"] = 5,
 			["yOffset"] = 0,
 		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "always",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "hover",
+			},
+			["dragPositions"] = {
+				["LibDBIcon10_Details"] = -80.2090116366828,
+				["GarrisonLandingPageMinimapButton"] = 217.4226090927349,
+				["LibDBIcon10_Raven"] = 266.7198579776826,
+				["MiniMapTracking"] = 236.7578658101021,
+				["GameTimeFrame"] = 147.3755499521969,
+				["LibDBIcon10_WeakAuras"] = 250.6282095221457,
+				["LibDBIcon10_Bartender4"] = -64.10553450816914,
+			},
+			["controlVisibility"] = true,
+		},
+	},
+	["Jobor-Illidan"] = {
+		["core"] = {
+			["clamp"] = true,
+			["lock"] = false,
+			["rightClickToConfig"] = true,
+			["autoZoom"] = 5,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["northTag"] = true,
+		},
+		["coordinates"] = {
+			["enabled"] = true,
+			["fontColor"] = {
+			},
+			["xOffset"] = 0,
+			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
+		},
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
+		},
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
+			},
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
+		},
+		["clock"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["borders"] = {
+			["applyPreset"] = false,
+			["borders"] = {
+				{
+					["name"] = "Rune 1",
+					["r"] = 0.3098039215686275,
+					["scale"] = 1.4,
+					["rotSpeed"] = -30,
+					["g"] = 0.4784313725490196,
+					["texture"] = 165630,
+				}, -- [1]
+				{
+					["a"] = 0.3799999952316284,
+					["rotSpeed"] = 60,
+					["r"] = 0.196078431372549,
+					["scale"] = 2.1,
+					["name"] = "Rune 2",
+					["g"] = 0.2901960784313725,
+					["texture"] = 165638,
+				}, -- [2]
+				{
+					["a"] = 0.3,
+					["name"] = "Fade",
+					["r"] = 0,
+					["scale"] = 1.6,
+					["g"] = 0.2235294117647059,
+					["texture"] = 167062,
+				}, -- [3]
+			},
+			["backdrop"] = {
+				["show"] = false,
+				["textureColor"] = {
+				},
+				["settings"] = {
+					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
+					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
+					["tile"] = false,
+					["edgeSize"] = 16,
+					["insets"] = {
+						["top"] = 4,
+						["right"] = 4,
+						["left"] = 4,
+						["bottom"] = 4,
+					},
+				},
+				["borderColor"] = {
+				},
+				["scale"] = 1,
+			},
+			["hideBlizzard"] = true,
+		},
+		["zonetext"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
+			},
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
+		},
+	},
+	["Devonatius-Illidan"] = {
+		["core"] = {
+			["clamp"] = true,
+			["lock"] = false,
+			["rightClickToConfig"] = true,
+			["autoZoom"] = 5,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["northTag"] = true,
+		},
+		["coordinates"] = {
+			["enabled"] = true,
+			["fontColor"] = {
+			},
+			["xOffset"] = 0,
+			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
+		},
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
+		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
+			},
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
+		},
+		["clock"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["borders"] = {
+			["applyPreset"] = false,
+			["borders"] = {
+				{
+					["name"] = "Rune 1",
+					["r"] = 0.3098039215686275,
+					["scale"] = 1.4,
+					["rotSpeed"] = -30,
+					["g"] = 0.4784313725490196,
+					["texture"] = 165630,
+				}, -- [1]
+				{
+					["a"] = 0.3799999952316284,
+					["rotSpeed"] = 60,
+					["r"] = 0.196078431372549,
+					["scale"] = 2.1,
+					["name"] = "Rune 2",
+					["g"] = 0.2901960784313725,
+					["texture"] = 165638,
+				}, -- [2]
+				{
+					["a"] = 0.3,
+					["name"] = "Fade",
+					["r"] = 0,
+					["scale"] = 1.6,
+					["g"] = 0.2235294117647059,
+					["texture"] = 167062,
+				}, -- [3]
+			},
+			["backdrop"] = {
+				["show"] = false,
+				["textureColor"] = {
+				},
+				["settings"] = {
+					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
+					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
+					["tile"] = false,
+					["edgeSize"] = 16,
+					["insets"] = {
+						["top"] = 4,
+						["right"] = 4,
+						["left"] = 4,
+						["bottom"] = 4,
+					},
+				},
+				["borderColor"] = {
+				},
+				["scale"] = 1,
+			},
+			["hideBlizzard"] = true,
+		},
+		["zonetext"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
 		["movers"] = {
 			["lockDurability"] = false,
 			["lockObjectives"] = false,
@@ -1214,7 +1363,7 @@ SexyMap2DB = {
 			["moveObjectives"] = false,
 		},
 	},
-	["Berch-Illidan"] = {
+	["Ercarde-Illidan"] = {
 		["core"] = {
 			["clamp"] = true,
 			["lock"] = false,
@@ -1268,6 +1417,308 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
+		},
+		["clock"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["borders"] = {
+			["applyPreset"] = false,
+			["borders"] = {
+				{
+					["name"] = "Rune 1",
+					["r"] = 0.3098039215686275,
+					["scale"] = 1.4,
+					["rotSpeed"] = -30,
+					["g"] = 0.4784313725490196,
+					["texture"] = 165630,
+				}, -- [1]
+				{
+					["a"] = 0.3799999952316284,
+					["rotSpeed"] = 60,
+					["r"] = 0.196078431372549,
+					["scale"] = 2.1,
+					["name"] = "Rune 2",
+					["g"] = 0.2901960784313725,
+					["texture"] = 165638,
+				}, -- [2]
+				{
+					["a"] = 0.3,
+					["name"] = "Fade",
+					["r"] = 0,
+					["scale"] = 1.6,
+					["g"] = 0.2235294117647059,
+					["texture"] = 167062,
+				}, -- [3]
+			},
+			["backdrop"] = {
+				["show"] = false,
+				["textureColor"] = {
+				},
+				["settings"] = {
+					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
+					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
+					["tile"] = false,
+					["edgeSize"] = 16,
+					["insets"] = {
+						["top"] = 4,
+						["right"] = 4,
+						["left"] = 4,
+						["bottom"] = 4,
+					},
+				},
+				["borderColor"] = {
+				},
+				["scale"] = 1,
+			},
+			["hideBlizzard"] = true,
+		},
+		["zonetext"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["b"] = 0,
+				["g"] = 0,
+				["r"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
+		},
+	},
+	["Joebur-Illidan"] = {
+		["core"] = {
+			["clamp"] = true,
+			["lock"] = false,
+			["rightClickToConfig"] = true,
+			["autoZoom"] = 5,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["northTag"] = true,
+		},
+		["coordinates"] = {
+			["enabled"] = true,
+			["fontColor"] = {
+			},
+			["xOffset"] = 0,
+			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
+		},
+		["ping"] = {
+			["showPing"] = true,
+			["showAt"] = "map",
+		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["SexyMapZoneTextButton"] = "always",
+				["TimeManagerClockButton"] = "always",
+			},
+			["dragPositions"] = {
+				["LibDBIcon10_Details"] = 240.4221895872317,
+				["LibDBIcon10_Bartender4"] = -57.12362378278819,
+				["LibDBIcon10_Raven"] = 160.994035827985,
+				["QueueStatusMinimapButton"] = 189.1805991736841,
+			},
+			["controlVisibility"] = true,
+		},
+		["clock"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["borders"] = {
+			["applyPreset"] = false,
+			["borders"] = {
+				{
+					["name"] = "Rune 1",
+					["r"] = 0.3098039215686275,
+					["scale"] = 1.4,
+					["rotSpeed"] = -30,
+					["g"] = 0.4784313725490196,
+					["texture"] = 165630,
+				}, -- [1]
+				{
+					["a"] = 0.3799999952316284,
+					["rotSpeed"] = 60,
+					["r"] = 0.196078431372549,
+					["scale"] = 2.1,
+					["name"] = "Rune 2",
+					["g"] = 0.2901960784313725,
+					["texture"] = 165638,
+				}, -- [2]
+				{
+					["a"] = 0.3,
+					["name"] = "Fade",
+					["r"] = 0,
+					["scale"] = 1.6,
+					["g"] = 0.2235294117647059,
+					["texture"] = 167062,
+				}, -- [3]
+			},
+			["backdrop"] = {
+				["show"] = false,
+				["textureColor"] = {
+				},
+				["settings"] = {
+					["bgFile"] = "Interface\\Tooltips\\UI-Tooltip-Background",
+					["edgeFile"] = "Interface\\Tooltips\\UI-Tooltip-Border",
+					["tile"] = false,
+					["edgeSize"] = 16,
+					["insets"] = {
+						["top"] = 4,
+						["right"] = 4,
+						["left"] = 4,
+						["bottom"] = 4,
+					},
+				},
+				["borderColor"] = {
+				},
+				["scale"] = 1,
+			},
+			["hideBlizzard"] = true,
+		},
+		["zonetext"] = {
+			["bgColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["font"] = "Friz Quadrata TT",
+			["fontColor"] = {
+			},
+			["borderColor"] = {
+				["a"] = 1,
+				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
+			},
+			["xOffset"] = 0,
+			["yOffset"] = 0,
+		},
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
+			},
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
+		},
+	},
+	["Berch-Illidan"] = {
+		["core"] = {
+			["clamp"] = true,
+			["lock"] = false,
+			["northTag"] = true,
+			["shape"] = "Interface\\AddOns\\SexyMap\\shapes\\circle.tga",
+			["autoZoom"] = 5,
+			["rightClickToConfig"] = true,
+		},
+		["coordinates"] = {
+			["enabled"] = true,
+			["fontColor"] = {
+			},
+			["xOffset"] = 0,
+			["updateRate"] = 1,
+			["yOffset"] = 10,
+			["font"] = "Friz Quadrata TT",
+			["borderColor"] = {
+			},
+			["coordPrecision"] = "%d,%d",
+			["backgroundColor"] = {
+			},
+		},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["SexyMapZoneTextButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapWorldMapButton"] = "never",
+			},
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
+		},
+		["movers"] = {
+			["lockDurability"] = false,
+			["lockObjectives"] = false,
+			["moveDurability"] = false,
+			["lockCaptureBar"] = false,
+			["moveVehicle"] = false,
+			["lockVehicle"] = false,
+			["moverPositions"] = {
+			},
+			["moveBuffs"] = false,
+			["lockBuffs"] = false,
+			["moveCaptureBar"] = false,
+			["moveObjectives"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {

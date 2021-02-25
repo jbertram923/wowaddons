@@ -26,6 +26,9 @@ END
 VER 3 0000000000000005 "macro" "897131"
 /macro
 END
+VER 3 0000000000000019 "Music" "648918"
+/run Sound_ToggleMusic(); 
+END
 VER 3 0000000000000009 "Sound" "136211"
 /run SetCVar("Sound_EnableAllSound",GetCVar("Sound_EnableAllSound")=="0" and 1 or 0)
 END
