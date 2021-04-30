@@ -1,0 +1,12 @@
+tag 00b25d41d248c1898ba62ed242066803859f3779 9.0.2.2
+Author:	semlar <teslagraafs@gmail.com>
+Date:	Sat Dec 5 04:25:37 2020 -0500
+
+commit 682b19061fa84eee4f2f1d7d4f9e0830ff39fdbc
+Author: semlar <teslagraafs@gmail.com>
+Date:   Sat Dec 5 04:25:24 2020 -0500
+
+    Add player covenant to tooltip
+    
+    - Replace class name with class icon
+

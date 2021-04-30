@@ -6,3 +6,7 @@ AAP-Legion: disabled
 AAP-WoD: disabled
 AAP-BfA: disabled
 Details_Streamer: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Raven: disabled
+Raven_Options: disabled

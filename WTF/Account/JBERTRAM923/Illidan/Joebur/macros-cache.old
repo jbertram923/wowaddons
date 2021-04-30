@@ -1,4 +1,27 @@
+VER 3 0100000000000003 "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/3] Primal Wrath
+/cast [talent:7/3] Feral Frenzy
+END
+VER 3 0100000000000004 "Dungeon - Feral" "1379231"
+/run local a=GetTalentInfo;local b=LearnTalent;local c=function(c,d)  b(a(c,d,1)) end c(1,1) c(2,2) c(3,2) c(4,1) c(5,1) c(6,3) c(7,2) 
+END
 VER 3 0100000000000001 "Fury" "132123"
 /use Sinful Aspirant's Badge of Ferocity
 /cast Fury of Elune
+END
+VER 3 0100000000000007 "OW - Feral" "132327"
+END
+VER 3 0100000000000006 "PVP - Feral" "132349"
+/run local a=GetTalentInfo;local b=LearnTalent;local c=function(c,d)  b(a(c,d,1)) end c(1,1) c(2,2) c(3,2) c(4,1) c(5,1) c(6,3) c(7,2) 
+END
+VER 3 0100000000000008 "Raid - Feral" "132353"
+END
+VER 3 0100000000000005 "T2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:2/1] Tiger Dash
+/cast [talent:2/2] Renewal
+/cast [talent:2/3] Wild Charge
+END
+VER 3 0100000000000002 "Talent" "INV_MISC_QUESTIONMARK"
 END

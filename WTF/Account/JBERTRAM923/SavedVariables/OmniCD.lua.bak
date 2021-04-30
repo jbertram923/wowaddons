@@ -2,21 +2,31 @@
 OmniCDDB = {
 	["profileKeys"] = {
 		["Pakurahnho - Illidan"] = "Default",
+		["Crakzakum - Illidan"] = "Default",
+		["Buresil - Illidan"] = "Default",
 		["Devonatius - Illidan"] = "Default",
+		["Jobur - Illidan"] = "Default",
+		["Jobirt - Illidan"] = "Default",
+		["Jobir - Illidan"] = "Default",
 		["Ioku - Illidan"] = "Default",
 		["Jabzulash - Illidan"] = "Default",
 		["Berch - Illidan"] = "Default",
 		["Eminattius - Illidan"] = "Default",
 		["Goburt - Illidan"] = "Default",
+		["Iokuman - Illidan"] = "Default",
 		["Rajashari - Ysondre"] = "Default",
-		["Jobir - Illidan"] = "Default",
-		["Ercarde - Illidan"] = "Default",
+		["Joburt - Illidan"] = "Default",
+		["Nikkhalkaj - Illidan"] = "Default",
+		["Eyuko - Illidan"] = "Default",
+		["Likankano - Illidan"] = "Default",
+		["Crazzarnzak - Illidan"] = "Default",
 		["Joebur - Illidan"] = "Default",
 		["Jobor - Illidan"] = "Default",
-		["Nikkhalkaj - Illidan"] = "Default",
+		["Nakzerfzul - Illidan"] = "Default",
+		["Bertybots - Illidan"] = "Default",
 		["Atuljorkho - Illidan"] = "Default",
-		["Eyuko - Illidan"] = "Default",
-		["Joburt - Illidan"] = "Default",
+		["Nashacheing - Illidan"] = "Default",
+		["Ercarde - Illidan"] = "Default",
 		["Irtzertbirt - Illidan"] = "Default",
 	},
 	["global"] = {
@@ -28,21 +38,21 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["version"] = 2.5,
 	["cooldowns"] = {
 	},
+	["version"] = 2.5,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 363.022187609804,
-							["x"] = 13.15562911629854,
-						},
 						["interruptBar"] = {
 							["y"] = 326.0445391449684,
 							["x"] = 14.57771031392781,
+						},
+						["raidCDBar"] = {
+							["y"] = 363.022187609804,
+							["x"] = 13.15562911629854,
 						},
 					},
 				},

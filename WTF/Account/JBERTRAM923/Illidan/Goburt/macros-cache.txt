@@ -1,14 +1,18 @@
-VER 3 0100000000000004 "Blind" "136175"
-#showtooltip Blind
-/cast [mod:alt, @focus] Blind; Blind
+VER 3 0100000000000013 "1SHOT" "132212"
+/castsequence reset=10 Cold Blood(PvP Talent), Cheap Shot, Sepsis, Shadow Blades, Symbols of Death, Shadow Dance, Shadowstrike, Kidney Shot, Marked for Death, Eviscerate, Shadowstrike, Shadowstrike, Eviscerate
 END
-VER 3 0100000000000005 "CS" "132092"
-#showtooltip Cheap Shot
-/cast [mod:alt, @focus] Cheap Shot; Cheap Shot
+VER 3 0100000000000012 "BOOM" "458726"
+/cast Shadow Blades
+/cast Cold Blood 
+/use Sinful Aspirant's Badge of Ferocity
+/cast Symbols of Death
+/castsequence reset=10 Shadow Dance,Vanish,Shadowstrike
 END
-VER 3 0100000000000009 "Duel" "1020341"
-#showtooltip Shadowy Duel
-/cast [mod:alt, @focus] Shadowy Duel; Shadowy Duel
+VER 3 0100000000000019 "BOOM No SB" "1373910"
+/cast Cold Blood 
+/use Sinful Aspirant's Badge of Ferocity
+/cast Symbols of Death
+/castsequence reset=10 Shadow Dance,Vanish,Shadowstrike
 END
 VER 3 0100000000000007 "Kick" "132219"
 #showtooltip Kick
@@ -17,6 +21,12 @@ END
 VER 3 0100000000000008 "KS" "132298"
 #showtooltip Kidney Shot
 /cast [mod:alt, @focus] Kidney Shot; Kidney Shot
+END
+VER 3 0100000000000017 "lessBOOM" "132282"
+/cast Cold Blood 
+/use Sinful Aspirant's Badge of Ferocity
+/cast Symbols of Death
+/castsequence reset=10 Shadow Dance,Vanish,Shadowstrike
 END
 VER 3 0100000000000011 "MFD/ST" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -59,9 +69,8 @@ VER 3 0100000000000003 "Sepsis" "3636848"
 /use Sinful Aspirant's Badge of Ferocity
 /cast Sepsis
 END
-VER 3 0100000000000006 "Shadowstep" "132303"
-#showtooltip Shadowstep
-/cast [mod:alt, @focus] Shadowstep; Shadowstep
+VER 3 0100000000000018 "ST_CS" "136206"
+/castsequence reset=10 Shadowstep, Cheap Shot
 END
 VER 3 0100000000000002 "Stealth" "132320"
 #showtooltip Stealth

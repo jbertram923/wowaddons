@@ -18,3 +18,5 @@ Details_Vanguard: disabled
 DraenorTreasures: disabled
 WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
+Raven: disabled
+Raven_Options: disabled

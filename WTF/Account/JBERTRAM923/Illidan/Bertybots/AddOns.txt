@@ -1,1 +1,4 @@
 Details: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Raven: disabled

@@ -3,7 +3,7 @@ Bartender4DB = {
 	["namespaces"] = {
 		["StatusTrackingBar"] = {
 			["profiles"] = {
-				["Rajashari - Ysondre"] = {
+				["Crakzakum - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -13,17 +13,7 @@ Bartender4DB = {
 						["y"] = 62,
 					},
 				},
-				["Jobir - Illidan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 62,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["scale"] = 1.264999985694885,
-					},
-				},
-				["Ercarde - Illidan"] = {
+				["Buresil - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -43,6 +33,26 @@ Bartender4DB = {
 						["y"] = 62,
 					},
 				},
+				["Ioku - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Berch - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
 				["Eminattius - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -53,17 +63,7 @@ Bartender4DB = {
 						["y"] = 62,
 					},
 				},
-				["Jobor - Illidan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 62,
-						["x"] = -515,
-						["point"] = "BOTTOM",
-						["scale"] = 1.264999985694885,
-					},
-				},
-				["Joebur - Illidan"] = {
+				["Jobirt - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -73,7 +73,17 @@ Bartender4DB = {
 						["y"] = 62,
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Jobur - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Eyuko - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -93,7 +103,107 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 				},
-				["Berch - Illidan"] = {
+				["Ercarde - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Iokuman - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Likankano - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Crazzarnzak - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Joebur - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Nakzerfzul - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Jobor - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Bertybots - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Rajashari - Ysondre"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1.264999985694885,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["y"] = 62,
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 62,
+						["x"] = -515,
+						["point"] = "BOTTOM",
+						["scale"] = 1.264999985694885,
+					},
+				},
+				["Jobir - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -117,66 +227,73 @@ Bartender4DB = {
 		},
 		["ActionBars"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -134.4330749511719,
-								["x"] = -115.3220825195313,
-								["point"] = "CENTER",
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
 							},
 						}, -- [1]
 						{
+							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 95.50030517578125,
-								["x"] = 158.499755859375,
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
 								["point"] = "CENTER",
 							},
 						}, -- [2]
 						{
+							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 160.0489807128906,
-								["x"] = -231.5001220703125,
-								["point"] = "BOTTOM",
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
 							},
 						}, -- [3]
 						{
+							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -20.89990234375,
-								["x"] = 1.1888427734375,
-								["point"] = "CENTER",
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
 							},
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 19.1002197265625,
-								["x"] = 94.055419921875,
-								["point"] = "CENTER",
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
 							},
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -263.4109039306641,
-								["x"] = -210.7444152832031,
-								["point"] = "CENTER",
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
 							},
 						}, -- [6]
 						{
 						}, -- [7]
 						{
 						}, -- [8]
-						nil, -- [9]
-						{
-						}, -- [10]
+						[10] = {
+						},
 					},
 				},
-				["Rajashari - Ysondre"] = {
+				["Buresil - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -209,6 +326,538 @@ Bartender4DB = {
 						{
 							["rows"] = 12,
 							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Devonatius - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Ioku - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Jobur - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Berch - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Jobir - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Rajashari - Ysondre"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -357,8 +1006,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -367,8 +1016,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -402,7 +1051,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -468,7 +1117,73 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Eminattius - Illidan"] = {
+				["Likankano - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+				["Crazzarnzak - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -530,8 +1245,76 @@ Bartender4DB = {
 						}, -- [7]
 						{
 						}, -- [8]
-						[10] = {
-						},
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Joebur - Illidan"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.4998474121094,
+								["x"] = -231.5001831054688,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["padding"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
+							},
+						}, -- [4]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = 3,
+								["point"] = "BOTTOM",
+							},
+						}, -- [5]
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 110,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 				["Jobor - Illidan"] = {
@@ -601,7 +1384,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Joebur - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -622,8 +1405,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -632,8 +1415,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -667,7 +1450,7 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Bertybots - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -734,7 +1517,66 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Goburt - Illidan"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -134.4330749511719,
+								["x"] = -115.3220825195313,
+								["point"] = "CENTER",
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 95.50030517578125,
+								["x"] = 158.499755859375,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 160.0489807128906,
+								["x"] = -231.5001220703125,
+								["point"] = "BOTTOM",
+							},
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -20.89990234375,
+								["x"] = 1.1888427734375,
+								["point"] = "CENTER",
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 19.1002197265625,
+								["x"] = 94.055419921875,
+								["point"] = "CENTER",
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -263.4109039306641,
+								["x"] = -210.7444152832031,
+								["point"] = "CENTER",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Nashacheing - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -801,7 +1643,7 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Berch - Illidan"] = {
+				["Eyuko - Illidan"] = {
 					["actionbars"] = {
 						{
 							["padding"] = 6,
@@ -822,8 +1664,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -832,8 +1674,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
 							["padding"] = 5,
+							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -889,8 +1731,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -899,8 +1741,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -940,11 +1782,75 @@ Bartender4DB = {
 		},
 		["ExtraActionBar"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = -60.89990234375,
-						["x"] = 342.6779174804688,
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Buresil - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Devonatius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Ioku - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobur - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Berch - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobir - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
 						["point"] = "CENTER",
 					},
 				},
@@ -972,7 +1878,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -252.4999389648438,
@@ -980,7 +1886,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Eminattius - Illidan"] = {
+				["Likankano - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -252.4999389648438,
@@ -988,7 +1894,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jobor - Illidan"] = {
+				["Crazzarnzak - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -252.4999389648438,
@@ -1004,7 +1910,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Jobor - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -252.4999389648438,
@@ -1012,7 +1918,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -252.4999389648438,
@@ -1020,7 +1926,31 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Berch - Illidan"] = {
+				["Bertybots - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Goburt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -60.89990234375,
+						["x"] = 342.6779174804688,
+						["point"] = "CENTER",
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -252.4999389648438,
+						["x"] = -63.50006103515625,
+						["point"] = "CENTER",
+					},
+				},
+				["Eyuko - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -252.4999389648438,
@@ -1040,13 +1970,94 @@ Bartender4DB = {
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
+					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 31.60000352263455,
-						["x"] = -243.459154705095,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 0.800000011920929,
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Buresil - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Devonatius - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Ioku - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Jobur - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Berch - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Jobir - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
 					},
 				},
 				["Rajashari - Ysondre"] = {
@@ -1079,7 +2090,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -1089,7 +2100,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Eminattius - Illidan"] = {
+				["Likankano - Illidan"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -1099,7 +2110,7 @@ Bartender4DB = {
 						["y"] = 41.75,
 					},
 				},
-				["Jobor - Illidan"] = {
+				["Crazzarnzak - Illidan"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -1113,13 +2124,13 @@ Bartender4DB = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
-						["scale"] = 1,
+						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
-						["y"] = 41.75,
+						["scale"] = 1,
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Jobor - Illidan"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -1129,7 +2140,17 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["scale"] = 1,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+				["Bertybots - Illidan"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -1139,7 +2160,26 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Berch - Illidan"] = {
+				["Goburt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 31.60000352263455,
+						["x"] = -243.459154705095,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.800000011920929,
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41.75,
+						["x"] = 37.5,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Eyuko - Illidan"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -1163,12 +2203,76 @@ Bartender4DB = {
 		},
 		["BagBar"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 81.04145050048828,
-						["x"] = -206.999755859375,
-						["point"] = "BOTTOMRIGHT",
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Buresil - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Devonatius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ioku - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobur - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Berch - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobir - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
 					},
 				},
 				["Rajashari - Ysondre"] = {
@@ -1196,7 +2300,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -1204,7 +2308,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Eminattius - Illidan"] = {
+				["Likankano - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -1212,7 +2316,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jobor - Illidan"] = {
+				["Crazzarnzak - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -1228,7 +2332,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Jobor - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -1236,7 +2340,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -1244,7 +2348,31 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Berch - Illidan"] = {
+				["Bertybots - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Goburt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 81.04145050048828,
+						["x"] = -206.999755859375,
+						["point"] = "BOTTOMRIGHT",
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 38.5,
+						["x"] = 345,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eyuko - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -1264,7 +2392,7 @@ Bartender4DB = {
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
-				["Rajashari - Ysondre"] = {
+				["Crakzakum - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1273,16 +2401,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jobir - Illidan"] = {
-					["enabled"] = true,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Ercarde - Illidan"] = {
+				["Buresil - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1300,6 +2419,24 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Ioku - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Berch - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Eminattius - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -1309,7 +2446,69 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jobor - Illidan"] = {
+				["Jobirt - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobur - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eyuko - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Joburt - Illidan"] = {
+					["position"] = {
+						["y"] = -245.5220336914063,
+						["x"] = 249.8444213867188,
+						["point"] = "TOPLEFT",
+					},
+					["version"] = 3,
+				},
+				["Ercarde - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Iokuman - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Likankano - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Crazzarnzak - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1327,7 +2526,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1336,15 +2535,43 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Joburt - Illidan"] = {
-					["position"] = {
-						["y"] = -245.5220336914063,
-						["x"] = 249.8444213867188,
-						["point"] = "TOPLEFT",
-					},
+				["Jobor - Illidan"] = {
+					["enabled"] = true,
 					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
 				},
-				["Berch - Illidan"] = {
+				["Bertybots - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Rajashari - Ysondre"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobir - Illidan"] = {
 					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
@@ -1366,11 +2593,75 @@ Bartender4DB = {
 		},
 		["StanceBar"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Buresil - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Devonatius - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 14.25019836425781,
 						["x"] = -111.75,
+						["point"] = "CENTER",
+					},
+				},
+				["Ioku - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobur - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Berch - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 14.25019836425781,
+						["x"] = -111.75,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobir - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
 						["point"] = "CENTER",
 					},
 				},
@@ -1400,23 +2691,24 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 14.25019836425781,
-						["x"] = -111.75,
+						["scale"] = 1,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["y"] = 143,
+					},
+				},
+				["Likankano - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
 						["point"] = "CENTER",
 					},
 				},
-				["Eminattius - Illidan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 14.25019836425781,
-						["x"] = -111.75,
-						["point"] = "CENTER",
-					},
-				},
-				["Jobor - Illidan"] = {
+				["Crazzarnzak - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99996185302734,
@@ -1427,13 +2719,30 @@ Bartender4DB = {
 				["Joebur - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Jobor - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.99996185302734,
+						["x"] = -82.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Nakzerfzul - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
 						["scale"] = 1,
 						["x"] = -460,
 						["point"] = "BOTTOM",
 						["y"] = 143,
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Bertybots - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99996185302734,
@@ -1441,7 +2750,15 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Goburt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 14.25019836425781,
+						["x"] = -111.75,
+						["point"] = "CENTER",
+					},
+				},
+				["Nashacheing - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99996185302734,
@@ -1449,7 +2766,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Berch - Illidan"] = {
+				["Eyuko - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -14.99996185302734,
@@ -1470,12 +2787,76 @@ Bartender4DB = {
 		},
 		["PetBar"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 89.5001220703125,
-						["x"] = -163.5,
-						["point"] = "CENTER",
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Buresil - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Devonatius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ioku - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobur - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Berch - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Jobir - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
 					},
 				},
 				["Rajashari - Ysondre"] = {
@@ -1502,7 +2883,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Likankano - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1510,15 +2899,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Eminattius - Illidan"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 143,
-						["x"] = -460,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Jobor - Illidan"] = {
+				["Crazzarnzak - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1534,7 +2915,7 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Jobor - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1542,7 +2923,15 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -120,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Bertybots - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1550,7 +2939,23 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Berch - Illidan"] = {
+				["Goburt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 89.5001220703125,
+						["x"] = -163.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 143,
+						["x"] = -460,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Eyuko - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -1570,7 +2975,71 @@ Bartender4DB = {
 		},
 		["Vehicle"] = {
 			["profiles"] = {
-				["Goburt - Illidan"] = {
+				["Crakzakum - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Buresil - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Devonatius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Ioku - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobur - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Berch - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Eminattius - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobirt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Jobir - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1603,7 +3072,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Devonatius - Illidan"] = {
+				["Iokuman - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1611,7 +3080,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Eminattius - Illidan"] = {
+				["Likankano - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1619,7 +3088,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jobor - Illidan"] = {
+				["Crazzarnzak - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1635,7 +3104,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Ioku - Illidan"] = {
+				["Jobor - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1643,7 +3112,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Jobir - Illidan"] = {
+				["Nakzerfzul - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1651,7 +3120,31 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Berch - Illidan"] = {
+				["Bertybots - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Goburt - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Nashacheing - Illidan"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 42.50006103515625,
+						["x"] = 104.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Eyuko - Illidan"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 42.50006103515625,
@@ -1671,24 +3164,78 @@ Bartender4DB = {
 		},
 	},
 	["profileKeys"] = {
-		["Goburt - Illidan"] = "Joburt - Illidan",
+		["Crakzakum - Illidan"] = "Crakzakum - Illidan",
+		["Buresil - Illidan"] = "Buresil - Illidan",
+		["Devonatius - Illidan"] = "Joburt - Illidan",
+		["Ioku - Illidan"] = "Joburt - Illidan",
+		["Jobur - Illidan"] = "Joburt - Illidan",
+		["Berch - Illidan"] = "Joburt - Illidan",
+		["Eminattius - Illidan"] = "Joburt - Illidan",
+		["Jobirt - Illidan"] = "Joburt - Illidan",
+		["Jobir - Illidan"] = "Joburt - Illidan",
 		["Rajashari - Ysondre"] = "Joburt - Illidan",
 		["Joburt - Illidan"] = "Joburt - Illidan",
 		["Ercarde - Illidan"] = "Ercarde - Illidan",
-		["Devonatius - Illidan"] = "Joburt - Illidan",
-		["Eminattius - Illidan"] = "Joburt - Illidan",
-		["Jobor - Illidan"] = "Joburt - Illidan",
+		["Iokuman - Illidan"] = "Iokuman - Illidan",
+		["Likankano - Illidan"] = "Likankano - Illidan",
+		["Crazzarnzak - Illidan"] = "Crazzarnzak - Illidan",
 		["Joebur - Illidan"] = "Joburt - Illidan",
-		["Ioku - Illidan"] = "Joburt - Illidan",
-		["Jobir - Illidan"] = "Joburt - Illidan",
-		["Berch - Illidan"] = "Joburt - Illidan",
+		["Jobor - Illidan"] = "Joburt - Illidan",
+		["Nakzerfzul - Illidan"] = "Nakzerfzul - Illidan",
+		["Bertybots - Illidan"] = "Joburt - Illidan",
+		["Goburt - Illidan"] = "Joburt - Illidan",
+		["Nashacheing - Illidan"] = "Nashacheing - Illidan",
+		["Eyuko - Illidan"] = "Joburt - Illidan",
 		["Irtzertbirt - Illidan"] = "Irtzertbirt - Illidan",
 	},
 	["profiles"] = {
-		["Goburt - Illidan"] = {
+		["Crakzakum - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Buresil - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Devonatius - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Ioku - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Jobur - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Berch - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Eminattius - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Jobirt - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Jobir - Illidan"] = {
+			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
-				["minimapPos"] = 240.4077032132526,
+				["minimapPos"] = 336.9031528904767,
 			},
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
 		},
 		["Rajashari - Ysondre"] = {
 			["focuscastmodifier"] = false,
@@ -1708,21 +3255,18 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Devonatius - Illidan"] = {
+		["Iokuman - Illidan"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Eminattius - Illidan"] = {
+		["Likankano - Illidan"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Jobor - Illidan"] = {
+		["Crazzarnzak - Illidan"] = {
 			["focuscastmodifier"] = false,
-			["minimapIcon"] = {
-				["minimapPos"] = 341.5651107161819,
-			},
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
@@ -1731,20 +3275,35 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Ioku - Illidan"] = {
+		["Jobor - Illidan"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Jobir - Illidan"] = {
-			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
-				["minimapPos"] = 336.9031528904767,
+				["minimapPos"] = 341.5651107161819,
 			},
+			["outofrange"] = "hotkey",
+		},
+		["Nakzerfzul - Illidan"] = {
+			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Berch - Illidan"] = {
+		["Bertybots - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Goburt - Illidan"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 240.4077032132526,
+			},
+		},
+		["Nashacheing - Illidan"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Eyuko - Illidan"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

@@ -7,6 +7,7 @@ VER 3 0100000000000004 "Dungeon - Feral" "1379231"
 /run local a=GetTalentInfo;local b=LearnTalent;local c=function(c,d)  b(a(c,d,1)) end c(1,1) c(2,2) c(3,2) c(4,1) c(5,1) c(6,3) c(7,2) 
 END
 VER 3 0100000000000001 "Fury" "132123"
+#showtooltip Fury of Elune
 /use Sinful Aspirant's Badge of Ferocity
 /cast Fury of Elune
 END

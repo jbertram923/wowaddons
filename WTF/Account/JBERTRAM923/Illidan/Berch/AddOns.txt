@@ -20,3 +20,4 @@ WeakAurasCompanion: enabled
 WeakAurasArchive: enabled
 NeatPlates: disabled
 SexyMap: disabled
+Raven: disabled
